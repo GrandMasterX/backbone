@@ -1,0 +1,7 @@
+*{font-family: 'pfagorasanspro-regular';}
+.main_page .main_form_all .main_form_wrapper ul li a{font-weight:bold;}
+.step_2_bg{margin-left: 29px;}
+.step_1_right, .step_3_hor_line .hor_line_right{position: relative;right: 2px;}
+.bottom_buttons .blue_repeat_btn2{left:20px;}
+.bottom_buttons .grey_repeat_btn{left:27px;}
+.grey_repeat_btn .icon-play-circle{position:relative;top:-1px;}

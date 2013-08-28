@@ -1,0 +1,26 @@
+<script>
+    $().ready(function(){
+        var CurrentPage = Backbone.history.fragment;
+        $(".menu a").on("click",function(){
+            console.log($(this).attr('href'));
+        });
+    });
+</script>
+<div class="logo"><a href="#"><img src="static/img/logo.png"></a></div>
+<div class="menu">
+    <ul>
+        <li><a href="#/" class="active">Главная</a></li>
+        <li><a href="#/service">О сервисе</a></li>
+        <li><a href="#/howitworks">Как это работает?</a></li>
+        <li><a href="#/partners">Партнеры</a></li>
+        <li><a href="#/contacts">Контакты</a></li>
+    </ul>
+</div>
+<div class="language_selector">
+    <a href="#">ru</a>
+    <div class="grey_line"></div>
+    <a href="#" class="l_r_border">eng</a>
+    <div class="grey_line"></div>
+    <a href="#">ukr</a>
+</div><div style="clear:both;"></div>
+<div class="magic_button"></div>

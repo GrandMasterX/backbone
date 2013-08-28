@@ -1,0 +1,2997 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items last_modified="1361285300">
+  <item>
+    <type_id>37</type_id>
+    <name>0094 Плащ оранжевый, оранж, рукав 3/4, оранжевый, оранжевый плащ</name>
+    <structure>коттон и эластан  </structure>
+    <price>899</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/134142030161.jpg</image>
+      <image>/img/products/images/27e391f11e97518c55129870e5e25c94.jpg</image>
+      <image>/img/products/images/0d0c70215d8e3b56b6d37ed1d5a2613b.jpg</image>
+      <image>/img/products/images/18bb534b4621dad575e6f6f21e3890b3.jpg</image>
+      <image>/img/products/images/9a68e462b4f779288273e3804f597f7c.jpg</image>
+      <image>/img/products/images/85c78098a2ac68bee4e3069f014c9171.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>37</type_id>
+    <name>0097 Куртка, синий, темно-синий, золотые пуговицы, куртка синяя, синяя, синяя куртка, темно-синяя,</name>
+    <structure>Стеганный коттон, синтепон</structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133906013467.jpg</image>
+      <image>/img/products/images/b51589dedc258e9047e86b0d1d420c94.jpg</image>
+      <image>/img/products/images/35ddeb98ca17500b33787bcc1470acd2.jpg</image>
+      <image>/img/products/images/9d840a356f9d99adfe3365285cd5f9a7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>37</type_id>
+    <name>0016 Пальто белое, круглый воротник, черные пуговицы, пальто, белое пальто, белый, белое, пуговицы</name>
+    <structure>Прорезиненная плащевка</structure>
+    <price>899</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/134026481970.jpg</image>
+      <image>/img/products/images/144c302843b1a7269ac8786602f52b87.jpg</image>
+      <image>/img/products/images/8a46c22666d7b0b8ba2eade45e073242.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>37</type_id>
+    <name>0188 Плащ голубой, плащевка, голубой плащ, пуговки.</name>
+    <structure>плащевка</structure>
+    <price>899</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350900144196.jpg</image>
+      <image>/img/products/images/ca51fe32683e6c1dacb91394ae189f62.jpg</image>
+      <image>/img/products/images/90ab263aff476e82dd21fc5d03b0f55d.jpg</image>
+      <image>/img/products/images/28bb91f15226f67bd00ae0d0e071d483.jpg</image>
+      <image>/img/products/images/0bdb9b030e4e31a64bf6f68465bbed7f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0099 Блуза белая, золотые пуговицы, карманы, белая блуза, белая, белый</name>
+    <structure>шифон</structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/134142636875.jpg</image>
+      <image>/img/products/images/6d818a5b23f74eb473b89fa237b839ad.jpg</image>
+      <image>/img/products/images/8628f17748a1fb1aa568d3ed3686e0a2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0106 Блуза черная, черный, бант, черная блуза, черная, кулиска</name>
+    <structure>искуственный  шелк</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/135722127890.jpg</image>
+      <image>/img/products/images/1f9939bc7d4d7bf1dca0e82664a6e853.jpg</image>
+      <image>/img/products/images/8dee55b68d47770e7ea9aa35ca7eaca4.jpg</image>
+      <image>/img/products/images/f19d17d22a8a70aad98c0f87d7eaa344.jpg</image>
+      <image>/img/products/images/a520f01b2c1a58f055838c2d0dc85020.jpg</image>
+      <image>/img/products/images/0cd8c5680261a674390e8f991ba0bad5.jpg</image>
+      <image>/img/products/images/ebd8bc16de90d6324d4928d2ad6666a5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0113   Блуза черная, черный, короткий рукав, золотая пуговка, пуговица, золотая пуговица,черная блуза</name>
+    <structure>шифон  </structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345811782109.jpg</image>
+      <image>/img/products/images/c12148051f9adbf7f556f294d3bb67a9.jpg</image>
+      <image>/img/products/images/58c7339ac0f3e52817f73b04cb651f4f.jpg</image>
+      <image>/img/products/images/6fd86177bdad30c266828d43ad267258.jpg</image>
+      <image>/img/products/images/443b6049eed5356217e7fb692df6754d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0001  Блуза белая, белый, золотой воротник, длинный рукав, белая, белая блуза.</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338899223111.jpg</image>
+      <image>/img/products/images/a10b262f115f10674de13a880ff28166.jpg</image>
+      <image>/img/products/images/3ef957c0b65544b94f287e1587d7d04e.jpg</image>
+      <image>/img/products/images/312f6e4ce07b54616aa88d27f9ffa4dc.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0117  Блуза зеленая, зеленый, прозрачная, с карманами, длинный рукав, зеленая блузка, зеленая</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898977121.jpg</image>
+      <image>/img/products/images/6f07e77dda817757145a4a2d1fc71c1c.jpg</image>
+      <image>/img/products/images/9af794a537f4e7f0d7330b8fe0724a54.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0129  Блуза бежевая, беж, длинный рукав, черные пуговицы, бежевая блуза, блуза беж</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898948123.jpg</image>
+      <image>/img/products/images/5b00da6f9a101dce3b8bc70bfe816e34.jpg</image>
+      <image>/img/products/images/c8c0962f967623d529f507123e5ff4b8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0015  Блуза бежевая, бежевый, беж, с карманами, бежевая блуза, блуза беж, золотые пуговицы, золотые пуговки</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898892126.jpg</image>
+      <image>/img/products/images/92633b67d2ec82e14f27fa28db982fb6.jpg</image>
+      <image>/img/products/images/6d952724783c2b0a234a514967cd6ee8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0118  Блуза синяя, синий, с карманами, длинный рукав, синяя блуза, темно-синий, золотые пуговицы</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898862129.jpg</image>
+      <image>/img/products/images/4217be70640f7ed46679805237d1a204.jpg</image>
+      <image>/img/products/images/575ff5da0a84435a206b58a97a83c673.jpg</image>
+      <image>/img/products/images/7e910fae2984802aa1f77aa3f3698dd1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0010  Блуза белая, белый, черный воротник, круглый воротник, рукав 3/4, белая блуза.</name>
+    <structure>шифон  </structure>
+    <price>339</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898147130.jpg</image>
+      <image>/img/products/images/0c72bd1b43c945ba5f0d09dd08f4222a.jpg</image>
+      <image>/img/products/images/9ff1c7c1f6ad2ca9d7099bdb642037b3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0002  Блуза белая, черные вставки, белый, белая блуза, прозрачная, прозрачный</name>
+    <structure>шифон  </structure>
+    <price>339</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898057131.jpg</image>
+      <image>/img/products/images/f6d363ac22f33cc2c85fb2cd243c2125.jpg</image>
+      <image>/img/products/images/e9a2f6a308bcbe5d26d3fcaf6a428de1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0119  Блуза розовая, с карманами, розовый, длинный рукав, розовая блуза, яркий розовый</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338897968133.jpg</image>
+      <image>/img/products/images/a0f692a38e37ec1f94f69da2c9e550d6.jpg</image>
+      <image>/img/products/images/e4bac0ff38b7b8fea8ae8970a1a079bc.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0134  Блуза розовая, розовый, светло-розовый, рукав короткий, 1 золотая пуговица, розовая блуза, нежно-розовый</name>
+    <structure>шифон  </structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898266135.jpg</image>
+      <image>/img/products/images/ae0d70e0b5389a8b0c6badebf484d577.jpg</image>
+      <image>/img/products/images/dd3a84ca3c43cf061227a34669c0b8b9.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0135  Блуза белая, короткий рукав, 1 золотая пуговица, белый, белая блуза</name>
+    <structure>шифон  </structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338898291136.jpg</image>
+      <image>/img/products/images/d0dbf884ca15f8ad720a4118795403c0.jpg</image>
+      <image>/img/products/images/0c4bb8a9a6425ad44a027087e134ccd1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0147 Блуза белая, белый, горох, зеленый горох, горох зеленый, рукав 3/4, рубашка, белая блуза, белая рубашка, рубашка белая.</name>
+    <structure>Хлопок</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341497023150.jpg</image>
+      <image>/img/products/images/951acb897ee29b3e29dbf2b8b5a26c07.jpg</image>
+      <image>/img/products/images/961f6845de7c98ae996e0e347136a886.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0183 блуза белая, шифоновая, шифоновая блуза, блуза шифоновая, длинный рукав, белая блуза, прозрачная, рукав на пуговке, пуговки.</name>
+    <structure>шифон  </structure>
+    <price>369</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342706980179.jpg</image>
+      <image>/img/products/images/0fcdaf4648db549c7955276b9af7d76b.jpg</image>
+      <image>/img/products/images/da3235658c8503ce56eee9a28064af65.jpg</image>
+      <image>/img/products/images/bb98ee274bb8e854c94b1a73482f209c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0187 Рубашка голубая, голубая рубашка, блуза, белые вставки.</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357224594195.jpg</image>
+      <image>/img/products/images/c1a3e5bc191fa3f9b7c23aaeddd746a7.jpg</image>
+      <image>/img/products/images/268066663ba2af2600f70ebdb464f0f9.jpg</image>
+      <image>/img/products/images/fdb3bb1cc862494475f89e8fcbb73a14.jpg</image>
+      <image>/img/products/images/00743f5845d5b5c91e951edf8b1ed3b4.jpg</image>
+      <image>/img/products/images/225318c2d93d5f69f2271f0704f43414.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0202 Рубашка джинсовая, джинсовая рубашка, джинс, карманы, белые пуговки</name>
+    <structure>Деним</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350891949210.jpg</image>
+      <image>/img/products/images/d2fb4db639de24fb3d55fd2fca665030.jpg</image>
+      <image>/img/products/images/45dc4ac51b94e5bb661d90b2ffa4da57.jpg</image>
+      <image>/img/products/images/ade65d65eea9a1d6ff187f779fe3a4b3.jpg</image>
+      <image>/img/products/images/f84e84fd46765971fccca63ed2a36595.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0207 Рубашка белая, длинный рукав, белый.</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/216.jpg</image>
+      <image>/img/products/images/30017f06fc8143497eeeecc9b09d5ee7.jpg</image>
+      <image>/img/products/images/cb491b6749ba8ca0812c7420564adcc5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0208 Рубашка белая, короткий рукав, белый.</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/217.jpg</image>
+      <image>/img/products/images/cd309b85afbba495ff12c9a17571f0c6.jpg</image>
+      <image>/img/products/images/84db1b6c1e3013a836d6fda41968f560.jpg</image>
+      <image>/img/products/images/abed5e429cce8f0281c9f2234b439c23.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0243 Рубашка в клеточку, красные пуговки  вышивкой</name>
+    <structure>Хлопок</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733674252.jpg</image>
+      <image>/img/products/images/c82ab3f9bbfdb8504cd57760678edb55.jpg</image>
+      <image>/img/products/images/855f0560019c50a46babcefc325440c2.jpg</image>
+      <image>/img/products/images/d3cf9db079f93a1fd653ba50a2579048.jpg</image>
+      <image>/img/products/images/10b7ab2e25fb7fbb820a038020dafc0d.jpg</image>
+      <image>/img/products/images/c2a045401c1f88e6dfc2ce4705e5b06c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0244 Блуза синяя в красный горошек, красные пуговки</name>
+    <structure>шифон</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733725253.jpg</image>
+      <image>/img/products/images/7cdd54216d14f24a5a5085d450e1e6d0.jpg</image>
+      <image>/img/products/images/b00a8d41cf5454a9bb7042e2e28eb208.jpg</image>
+      <image>/img/products/images/fed78091367d3a9a1d5292b473044baf.jpg</image>
+      <image>/img/products/images/9b80ef1dec51372aa3f2cf3af22b055c.jpg</image>
+      <image>/img/products/images/fbd5159e48b389d5cd1aa312fb9e7eb6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0253 Блуза бежевая шифон, круглый воротник</name>
+    <structure>шифон</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/263.jpg</image>
+      <image>/img/products/images/725d5900c89c19dcd783c82f7266967c.jpg</image>
+      <image>/img/products/images/284962a30b125199c5021304cef7acce.jpg</image>
+      <image>/img/products/images/fbf2aa002a0ad7637f7d176c5541fff3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0258 Блуза красная, шифон, круглый воротник</name>
+    <structure>шифон</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360849957267.jpg</image>
+      <image>/img/products/images/6e0f9ae99ee55e7ed2551765c0a2996b.jpg</image>
+      <image>/img/products/images/ae2c347536156eaa69e56bdbfc775d1f.jpg</image>
+      <image>/img/products/images/a5bb883437ad2751f95bf0d1ba771ebb.jpg</image>
+      <image>/img/products/images/54936206130551d951bd197d9d37222d.jpg</image>
+      <image>/img/products/images/bafe2a87977d35565c37700befd66fe1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>40</type_id>
+    <name>0260 Блуза белая шифон, черная оконтовка</name>
+    <structure>шифон</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/269.jpg</image>
+      <image>/img/products/images/2318a1e69dfa3a83d5b16120e1b9b5de.jpg</image>
+      <image>/img/products/images/84cd9fb27f7fb958f62bcf962e015f99.jpg</image>
+      <image>/img/products/images/7cb15916f88817be4e862a16c3e6e89b.jpg</image>
+      <image>/img/products/images/f62ac079f5bf331b6a94163bc607511d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0098 Платье желтое, яркое, желтый, жолтое, желтое платье, боченком</name>
+    <structure>коттон, эластан</structure>
+    <price>499</price>
+    <text>платья нет в наличии, на складе нет ткани.</text>
+    <images>
+      <image main="1">/img/products/main/133906167273.jpg</image>
+      <image>/img/products/images/b5b7e553185f2f6421896d1a4244b31a.jpg</image>
+      <image>/img/products/images/e41ac1230575feb0d0bad30f97c7f86d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0047  Платье оранжевое, яркое, оранж, рукав 3/4, оранжевый, оранжевое платье, кулиска</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text>Платье оранжевое, яркое, рукав 3/4, длинна платья 123 см.</text>
+    <images>
+      <image main="1">/img/products/main/133785492956.jpg</image>
+      <image>/img/products/images/1d352fd292f5e5b3fdcb8dade23726bb.jpg</image>
+      <image>/img/products/images/8b390f15316f996e37792112a61d92c6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0092 Платье зеленое, с воротником, золотые пуговицы, с карманами, зеленый, зеленое, зеленое платье</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/57.jpg</image>
+      <image>/img/products/images/83061f34726382fcacb94745c43d9990.jpg</image>
+      <image>/img/products/images/40d4c9c085d00fabc898e3c09dc2aa57.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0073 Платье шелковое, летящее, струящееся, бант, цветочный принт, холодные тона, шелковое платье, шелк</name>
+    <structure>стрейч, атлас</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/58.jpg</image>
+      <image>/img/products/images/32ea43ba0f131d6d6f1ca1e976e5fcc9.jpg</image>
+      <image>/img/products/images/0631f5fc04ffd8240f38d4b3a02ae247.jpg</image>
+      <image>/img/products/images/120db08cff17a4470bfa7ed87560b9f8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0072 Платье шелковое, летящее, струящееся, бант, мелкий горошек, шелк, горох, шелковое платье</name>
+    <structure>стрейч, атлас</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/59.jpg</image>
+      <image>/img/products/images/aba9952c8a10df6cbca5e4734636c312.jpg</image>
+      <image>/img/products/images/31ed838059a181bff02829789a7702fe.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0095 Платье красное, с воротником, золотые пуговицы, с карманами, красное платье, красный, красное</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/62.jpg</image>
+      <image>/img/products/images/c7d18b65fab2da13086b218e18e35f8b.jpg</image>
+      <image>/img/products/images/29c77abfcafa699ae79a621aa5521741.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0063 Платье синее, темно-синий, цепочки на плечах, погончики, синее, синее платье, синий</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/63.jpg</image>
+      <image>/img/products/images/401e99f8b352a6ffac4ae3055d7e667c.jpg</image>
+      <image>/img/products/images/e69ffb4cea283eb26c36ba38f618dc8d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0062 Платье красный, красный, цепочки на плечах, погончики</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/64.jpg</image>
+      <image>/img/products/images/d5e06b96c1233c6d24a93410e7f678c4.jpg</image>
+      <image>/img/products/images/7b165ffdee8591421ac995e5a26b13c7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0096 Платье черное, маленькое черное, вырез лодочкой, черный, черное, черное платье, лодочка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/135722377065.jpg</image>
+      <image>/img/products/images/f90d7acd8b0b19c0d76c3298d3767e5e.jpg</image>
+      <image>/img/products/images/af438356361840fc29d49a0ea7689fd5.jpg</image>
+      <image>/img/products/images/67f2df6cc9ac9e6ba968dda09d473139.jpg</image>
+      <image>/img/products/images/d20d6d81bf570d185df86a4965ba3771.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0059 Платье черное, белый воротник, белые манжеты, черное платье, маленькое черное, черный, черное, манжеты</name>
+    <structure>шерсть, эластан</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/68.jpg</image>
+      <image>/img/products/images/fd623631ee1366dd55ea4bf26456a733.jpg</image>
+      <image>/img/products/images/8e03a5d3bfee39f395f22905c40e87b4.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0053 Платье синее, темно-синий, золотые пуговицы, темно-синее, синее платье, кулиска, пуговицы</name>
+    <structure>искусственный шелк</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/69.jpg</image>
+      <image>/img/products/images/812f48842f01bf7b4f6ddbeaf59d4b7a.jpg</image>
+      <image>/img/products/images/5b5f6929856d0d140e4f7089c4b64a10.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0050 Платье двухцветное, беж и красный, карманы, бежевый, беж, красный, платье, бежевое, красное</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/82.jpg</image>
+      <image>/img/products/images/43315a18af31ca1aeb3a5eb97ead6e63.jpg</image>
+      <image>/img/products/images/302ef3e782b7f38c736ff5e7bba625c5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0064 Платье синее, темно-синий, синий, короткое, карманы, синее, синее платье</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/84.jpg</image>
+      <image>/img/products/images/fb08d5f4b14060a953a839d37156277f.jpg</image>
+      <image>/img/products/images/8c848c019cb4a58681444aab6704548c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0070 Платье синее, темно-синий, синий, приталенное, синее, синее платье, воротник, золотые пуговки</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/85.jpg</image>
+      <image>/img/products/images/a64104de44774a525d481634790333fc.jpg</image>
+      <image>/img/products/images/52036de4c49465e724f15f9df50ea16c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0067 Платье синее, темно-синий, синий, длинное, карманы, синее, синее платье, в пол, макси</name>
+    <structure>Хлопок</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/86.jpg</image>
+      <image>/img/products/images/0b886d70482845f874dc0a568cda8587.jpg</image>
+      <image>/img/products/images/fdf99ad7344e961fe4aa84551b1e8092.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0105 Платье бежевое, беж, короткое, бежевое, бежевый, бежевое платье, платье беж</name>
+    <structure>коттон, эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/135722115887.jpg</image>
+      <image>/img/products/images/2886962f38fa5fc6ebbd41280fd863ed.jpg</image>
+      <image>/img/products/images/8e9178a0a1f54bfd1a362c1bd04692f0.jpg</image>
+      <image>/img/products/images/d4237ea849e817fdbfd40ebd8ad58646.jpg</image>
+      <image>/img/products/images/be38ee9b352184cd874ea1331151c972.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0052 Платье бежевое, беж, золотые поговицы, карманы, бежевое, бежевый, бежевое платье, платье беж</name>
+    <structure>искусственный шелк</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/88.jpg</image>
+      <image>/img/products/images/ae17e7e0533fabfd1d9e846f4d41be25.jpg</image>
+      <image>/img/products/images/301f0c1952ddfdff72b38f5b5034aeee.jpg</image>
+      <image>/img/products/images/54588dd7661f33c369d1c3074ad6ff5f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0057 Платье шелковое, струящееся, V-образный вырез, бежевый, бирюза, шелковое, шелковое платье, беж, бежевое платье, платье бежевое, бирюзовый</name>
+    <structure>натуральный шелк</structure>
+    <price>1199</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/89.jpg</image>
+      <image>/img/products/images/4bb9af40322a2c4d27f9825b6541ff3f.jpg</image>
+      <image>/img/products/images/7e29d10acb6d45b5e0ba41fcab6a7651.jpg</image>
+      <image>/img/products/images/4cff30a27c8919526ed17ff83a42545b.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0048 Платье желтое, вырез лодочкой, ярко-желтый, желтый, желтое, желтое платье, лодочка, рукав 3/4</name>
+    <structure>коттон, эластан</structure>
+    <price>499</price>
+    <text>нет в наличии!</text>
+    <images>
+      <image main="1">/img/products/main/94.jpg</image>
+      <image>/img/products/images/738ecd50dd35d7bffd3fe8085b3de6d0.jpg</image>
+      <image>/img/products/images/256831ee0eeed84879b163568b111263.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0056 Платье белое, хомут, приталенное, белый, белое, белое платье, короткое</name>
+    <structure>шерсть, акрил</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/95.jpg</image>
+      <image>/img/products/images/1cbdf20ccd9fcfe82f500595688f5456.jpg</image>
+      <image>/img/products/images/0ba5cd176f08c7fc6f72dbe14857a25e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0083 Сарафан белый, с розами, рюши, белый, белый сарафан, ярусы, розочки, розы</name>
+    <structure>хлопок, эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/96.jpg</image>
+      <image>/img/products/images/1ef5256d2ab4ba566621ef47070aeb05.jpg</image>
+      <image>/img/products/images/3b4ca73ca290276ec95879010ed7666b.jpg</image>
+      <image>/img/products/images/35ad21ff15c094c331a97cc8d01efabc.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0079 Платье розовое, розовый, рюши, вырез лодочкой, розовое, розовое платье, ярусы, рукав 3/4, лодочка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/97.jpg</image>
+      <image>/img/products/images/72e164f852410e7fba8e2595e057296e.jpg</image>
+      <image>/img/products/images/cf0a38a18137e8ac16fcb56ff4322962.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0041 Платье розовое, шифон, золотые нуговицы, длинный рукав, вырез на спине, глубокий вырез, вырез, розовое платье, нежно-розовый, розовый, розовое</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/98.jpg</image>
+      <image>/img/products/images/323fca1edc362d65a4c7b0611bb7ce1d.jpg</image>
+      <image>/img/products/images/3a561a5ff9141cd0d3314795aa803d97.jpg</image>
+      <image>/img/products/images/1b4533ff754053579bd77213a9fe721b.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0051 Платье желтое, молния, вырез лодочкой, желтый, желтое, желтое платье, лодочка, перед укорочен</name>
+    <structure>коттон, эластан</structure>
+    <price>549</price>
+    <text>нет в наличии!</text>
+    <images>
+      <image main="1">/img/products/main/135088910899.jpg</image>
+      <image>/img/products/images/aaad513938aa4f8b16c09676701f88f6.jpg</image>
+      <image>/img/products/images/f389bd0f66b2a93b4f8ae9736106f43b.jpg</image>
+      <image>/img/products/images/c8a926498152be798292f466c35cd824.jpg</image>
+      <image>/img/products/images/97314a1dc614ce780d921621df377f22.jpg</image>
+      <image>/img/products/images/0da73f2f9a0950bb1a2e5b72c4cb0a87.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0108 Платье красное, красный, высокая талия, красное, красное платье, боченком</name>
+    <structure>коттон и эластан  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/106.jpg</image>
+      <image>/img/products/images/1d949317446f854ae9bcc66b4f69c225.jpg</image>
+      <image>/img/products/images/84481b2edf9b2d6c96f710aa7e7e6560.jpg</image>
+      <image>/img/products/images/963e6192c90a5bd1fc3829616e906716.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0111  Платье черное, черный, высокая талия, черное, черное платье, боченком</name>
+    <structure>шерсть и эластан </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341482343107.jpg</image>
+      <image>/img/products/images/3709dddb85945402204cf54520739117.jpg</image>
+      <image>/img/products/images/ffedd536d8dac0bb74e0bb29cc769102.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0112  Платье зеленое, зеленый, высокая талия, зеленое, зеленое платье, боченком</name>
+    <structure>коттон и эластан  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/108.jpg</image>
+      <image>/img/products/images/470b6f39bcc53ea6e1d1c4e74c4461f1.jpg</image>
+      <image>/img/products/images/c58b1eb72adeca17eef17c87f73c7ac8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0121  Сарафан зеленый, зеленый, длинный, с рюшами, в пол, макси, зеленый сарафан</name>
+    <structure>шифон  </structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/114.jpg</image>
+      <image>/img/products/images/a8ef33243dac68378c6ef3facc7a0f72.jpg</image>
+      <image>/img/products/images/56c959e7b59460394f4cf3400aebe85f.jpg</image>
+      <image>/img/products/images/ec188d4beddd6267b7f628f8e41ade30.jpg</image>
+      <image>/img/products/images/43872577d71ea1b34c31a560f40eaa31.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0123  Платье черное, черный, длинное.</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/116.jpg</image>
+      <image>/img/products/images/43028808e4363b8e2194797ff2623e1f.jpg</image>
+      <image>/img/products/images/73caf5cbabd5d8bb1977aa65c5d6ecd8.jpg</image>
+      <image>/img/products/images/f20b0ed0a0abd512d5376855fb2aa22d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0124  Сарафан в полоску, мелкая полоска, полоска</name>
+    <structure>хлопок  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/117.jpg</image>
+      <image>/img/products/images/7017d2a8d281e0d2662c430d5d20bcdd.jpg</image>
+      <image>/img/products/images/8dd164f302c346e2e603220f77dd5bff.jpg</image>
+      <image>/img/products/images/ac1842f57588b261b34cdfce68afbba5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0125  Туника оранжевая, оранж, оранжевый, рюши</name>
+    <structure>шифон  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341760444118.jpg</image>
+      <image>/img/products/images/0506dc160ebdc21d4aa1d805d1f2b72f.jpg</image>
+      <image>/img/products/images/c387ec1ce4120a57323ef4d454e7d6ce.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0126  Платье черное, черный, верх прозрачный, черное, черное платье, пуговицы, струящееся</name>
+    <structure>шифон  </structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341483058119.jpg</image>
+      <image>/img/products/images/bdda89911b9cffb507e8e56d6ce7f02a.jpg</image>
+      <image>/img/products/images/d84a1003cc4ece0df38ba8e845e75143.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0130  Сарафан розовый, розовый, длинный, в пол, макси, розовый сарафан, ярко-розовый</name>
+    <structure>шифон  </structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/124.jpg</image>
+      <image>/img/products/images/97a82df5bd0bbce9d12b7b0fd51eb3cb.jpg</image>
+      <image>/img/products/images/7da88f424dc1cd7e9ac491f1794c23ac.jpg</image>
+      <image>/img/products/images/b3c2910384b8ba38b8167ac5a847d720.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0131  Платье красное, красный, рюши, красное платье, красное, разрез внизу, приталенное, без шлеек</name>
+    <structure>коттон и эластан  </structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341760479125.jpg</image>
+      <image>/img/products/images/763cb1bf37570a4aba4026a617e6285d.jpg</image>
+      <image>/img/products/images/3e5bcd1c986ecf0c7606891c12e5d47c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0061  Платье синее, рукав 3/4, вырез лодочкой, лодочка, синий, синее платье</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/134.jpg</image>
+      <image>/img/products/images/331c9658022b6915053c48236d0788e4.jpg</image>
+      <image>/img/products/images/7409db0f9c3f15529bcb2f88a2d3fefa.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0093  Платье лимонное, желтое, рукав 3/4, лимонное-платье, ярко-желтый, ярко-желтое платье, желтое платье, платье желтое, желтый</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/143.jpg</image>
+      <image>/img/products/images/24f6e722cc00f464ffa4435ffb9ee8c6.jpg</image>
+      <image>/img/products/images/f93bd7653daad662f55c766b3a6d582c.jpg</image>
+      <image>/img/products/images/e8288471d7f30139447ae05ebf70b860.jpg</image>
+      <image>/img/products/images/f7f1495e620d013c8bfa31b8f8f117ed.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0142  Платье желтое, желтые пуговицы, рукав чашечкой, желтый</name>
+    <structure>шифон  </structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341492129144.jpg</image>
+      <image>/img/products/images/51d122e78dfba731481de074b02b71fa.jpg</image>
+      <image>/img/products/images/5cab7a16a447693fc8e151c103cf4f17.jpg</image>
+      <image>/img/products/images/2e8bde7b22a223c01b8efa7989b3a911.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0084  Платье серое, белый воротник, рукав 3/4, серый, серое, серое платье, манжеты, белые манфеты</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/145.jpg</image>
+      <image>/img/products/images/9cf7320bf0a4bf3be0ea901008973678.jpg</image>
+      <image>/img/products/images/60c21d9e042b198fe5270f4dd92d58ab.jpg</image>
+      <image>/img/products/images/04584109925c61b7f97bb4a0d1c8df37.jpg</image>
+      <image>/img/products/images/99afbeb13a4c4e9dea3d8cc17db308c9.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0143  Сарафан бежевый, беж, с карманами, бежевый, бежевый сарафан, сарафан беж, открытый верх, на груди, без шлеек</name>
+    <structure>коттон и эластан  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/146.jpg</image>
+      <image>/img/products/images/fff406630afd970095763ceb528747e0.jpg</image>
+      <image>/img/products/images/80c02ccc17455d0b600d35a148ed3890.jpg</image>
+      <image>/img/products/images/a7757b0f45e4cd4804dfdbbaea5a19b1.jpg</image>
+      <image>/img/products/images/789f78df36309422abc6ab8ea1274b31.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0144  Платье зеленое, длинное, зеленый, бантики, бантик, зеленое, зеленое платье, в пол, макси</name>
+    <structure>Хлопок</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/147.jpg</image>
+      <image>/img/products/images/450d6143de41163fdb14961898c32886.jpg</image>
+      <image>/img/products/images/a54b6e8d9f8606ea4cac9095bdfa7689.jpg</image>
+      <image>/img/products/images/c988a0b82416a72c8044948961ff9cb3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0081  Платье кораловое, на одно плечо, рюши, кораловый, кораловое платье, на кулиске</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/148.jpg</image>
+      <image>/img/products/images/c8fdcd8adefdf8d73a7770621ce7e37a.jpg</image>
+      <image>/img/products/images/1e70d5593271abceb96e3d4528fe979e.jpg</image>
+      <image>/img/products/images/a0e062267860350adf27abf326c0753b.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0145 Платье белое, белый, белое, горошек, зеленый горошек, горох, белое платье</name>
+    <structure>Хлопок</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342775477149.jpg</image>
+      <image>/img/products/images/7181ccbf76e279bcb7d5ea210b2bd180.jpg</image>
+      <image>/img/products/images/56fbac7d99638d8dd80d77919dc701c4.jpg</image>
+      <image>/img/products/images/83e01aa4d3d9699161d3e7fd7fcc81b5.jpg</image>
+      <image>/img/products/images/b57a683812d364be75c3c9dcb3129745.jpg</image>
+      <image>/img/products/images/ca9fede97c03d2a52a5837c8da3aea2e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0149 Платье зеленое, зеленое платье, зеленый, зеленое, рукав фонарик, шифон, шифоновое</name>
+    <structure>шифон  </structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341492924155.jpg</image>
+      <image>/img/products/images/88b006bf01e43a4ec40a985c2daf850c.jpg</image>
+      <image>/img/products/images/67741591141bedc3a8d02e34cedd6192.jpg</image>
+      <image>/img/products/images/c3b2ad394841e0c6c885273f7d676f74.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0150 Платье розовое, розовое платье, шифон, рюши, на 1 плечо, розовый, розовое</name>
+    <structure>шифон  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/156.jpg</image>
+      <image>/img/products/images/4e032563603b10b0e4bdca98cca2b38f.jpg</image>
+      <image>/img/products/images/2efc947c30172647cf8cca49eefbe74b.jpg</image>
+      <image>/img/products/images/a6d9898944b1a2cd2841a89802011ec3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0160 Платье голубое, голубое платье, голубое, голубой, на кулиске, кулиска</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/157.jpg</image>
+      <image>/img/products/images/78144690a5e2070c9714dcffb273056e.jpg</image>
+      <image>/img/products/images/e1c0041305b37b48257f966b9c3d80ba.jpg</image>
+      <image>/img/products/images/2700ad45a26d3abd757a06244ee134e2.jpg</image>
+      <image>/img/products/images/84e4f49fef50edd919bf96f4afe4b56c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0161  Сарафан белый, платье белое, белый сарафан, белое платье, белый, белое, бретели, широкие бретели</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345812841158.jpg</image>
+      <image>/img/products/images/08de1cfb1dc7ac266ddf6306311d3676.jpg</image>
+      <image>/img/products/images/a9cee007b3e357379e50993eda7b40d9.jpg</image>
+      <image>/img/products/images/ecb03075c3c98f9fad036a51e5f5b0ad.jpg</image>
+      <image>/img/products/images/2c97a0487eaabd14f775eeb3d9b54685.jpg</image>
+      <image>/img/products/images/fb414ac805a0b22e66afdad3c7cbbdf2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0162 Сарафан белый, белый сарафан, платье белое, белое платье, рюша, кулиска, бретели, тонкие бретели, бретели тонкие</name>
+    <structure>Хлопок</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345812941159.jpg</image>
+      <image>/img/products/images/f6b3469216929a8a7c205d269396f69c.jpg</image>
+      <image>/img/products/images/905f310f9b3b9916295b3ab0a3e82963.jpg</image>
+      <image>/img/products/images/0eead4326871d430ff3e6549c361095e.jpg</image>
+      <image>/img/products/images/63ae280fae3afe0adf8f400203a634ba.jpg</image>
+      <image>/img/products/images/3cf31cec1b23048f246b03718ba6a197.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0163 Платье белое, белое платье, рюши, в пол, макси, открытый верх, белое, белый</name>
+    <structure>Хлопок</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342778612160.jpg</image>
+      <image>/img/products/images/7659d511c1d61d49adfea0925dff9d12.jpg</image>
+      <image>/img/products/images/ae49f19c773d4eef4086fb3d53efb0bd.jpg</image>
+      <image>/img/products/images/306902b207dfcec4f04aacc12f0666e4.jpg</image>
+      <image>/img/products/images/b372ab41bba25d9120fb6699171a1a27.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0169 Платье бирюзовое, бирюзовое платье, бирюза, бирюзовый, бирюзовое, в пол, макси, белая пуговица, пуговица</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345813051167.jpg</image>
+      <image>/img/products/images/ccb2fbc19649cc099d71846aaf404bf7.jpg</image>
+      <image>/img/products/images/2a55553575c77b8cec880ab963365cad.jpg</image>
+      <image>/img/products/images/f56dbc26aa1fc729e6c11adcca258428.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0170 Платье бирюзовое, бирюза, бирюзовое платье, рюша, кулиска</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345813130168.jpg</image>
+      <image>/img/products/images/788db036db7c46ad2685f78402356a23.jpg</image>
+      <image>/img/products/images/1d7a24f7fee553cb5e459ca66ce2fa72.jpg</image>
+      <image>/img/products/images/c23f2ea759477ef777e3a6529719e580.jpg</image>
+      <image>/img/products/images/27a667d7cd3b61210111b7a9d01fccc3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0172 Платье белое, белый, белое, белое платье, платье майка, майка платье, майка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/170.jpg</image>
+      <image>/img/products/images/b2d3a5d025e3c7599f6eb215d849e034.jpg</image>
+      <image>/img/products/images/30b941e729345b1298d5118c4f74a8d0.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0173 Платье белое, белый, белое, белое платье, кулиска, платье майка, майка платье, майка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1343043020171.jpg</image>
+      <image>/img/products/images/394894791d7147f399145b52bca5f438.jpg</image>
+      <image>/img/products/images/33459a74b01abb419c39951e2bd15f30.jpg</image>
+      <image>/img/products/images/769e909bee4711bdf22be7cf9d6de829.jpg</image>
+      <image>/img/products/images/24c056bb68007a5233c77817300e872c.jpg</image>
+      <image>/img/products/images/5996f95535d7c5dfdd3d4c2872504dd9.jpg</image>
+      <image>/img/products/images/d024acef21d669787bb64cf400145615.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0175 Платье черное, черное платье, черный, черное, шифон, короткое</name>
+    <structure>шифон</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350889669172.jpg</image>
+      <image>/img/products/images/50a757503b8c5882706e3b653cb00e0b.jpg</image>
+      <image>/img/products/images/c440b449298f809b3bc88b54ac6bf94c.jpg</image>
+      <image>/img/products/images/65538adec3c69c36e2eb0edc8190875d.jpg</image>
+      <image>/img/products/images/74d461bb4c39b6980b10f5b661ced1f6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0146 Платье белое, платье волан, белое платье, волан, рюша, по груди, на грудь, открытый верх, зеленый горох, горох</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345814186173.jpg</image>
+      <image>/img/products/images/68c10ef500d308a202bb784c5a424a03.jpg</image>
+      <image>/img/products/images/626ed01c094ea907c3dd8ad8e59ec695.jpg</image>
+      <image>/img/products/images/c5fbac840ed258418aa131299d4860f2.jpg</image>
+      <image>/img/products/images/15241826b9f67a74d2f8f880c59cee71.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0174 Платье майка, Майка, майка-платье, Платье бирюзовое, платье бирюза, бирюзовое платье, майка бирюзовая, бирюзовая майка, майка бирюза, длинная</name>
+    <structure>Хлопок</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1343054125175.jpg</image>
+      <image>/img/products/images/8f86d90a4276007303654e7db835533c.jpg</image>
+      <image>/img/products/images/8f3920c65d06470f62c8f40fdecc497b.jpg</image>
+      <image>/img/products/images/8966124e854f49ed1efcd60ab019ad38.jpg</image>
+      <image>/img/products/images/f8ba97b051e542e140ae2fa12f5b92ab.jpg</image>
+      <image>/img/products/images/a12c464ae4bcd3d44f5b53ca82948fc6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0181 платье, белое платье, платье белое, двойной воротник, воротник, платье &amp;quot;бочонок&amp;quot;, бочонок</name>
+    <structure>хлопок и эластан</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1343030103177.jpg</image>
+      <image>/img/products/images/9fe7cf481200d79e0d65e3ce3a48f5e3.jpg</image>
+      <image>/img/products/images/5a3414f97a0116bb1dd308565dc57040.jpg</image>
+      <image>/img/products/images/6b0f9a187046cabf10495a929533200b.jpg</image>
+      <image>/img/products/images/fc0c9a151f6801a0d0e2ed31a52f70dc.jpg</image>
+      <image>/img/products/images/54ff1f0e2603dcd9bbb02bbfea9ae652.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0182 Платье белое, белое платье, платье корсетное, корсет, корсетный верх, платье на грудь, молния, приталенный низ, приталенное платье, платье приталенное</name>
+    <structure>хлопок и эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1343060521178.jpg</image>
+      <image>/img/products/images/d77b9e8d4cae279a1d556dd7b538e316.jpg</image>
+      <image>/img/products/images/395a327171864ef8f183b0a703155c0b.jpg</image>
+      <image>/img/products/images/8b395584dcfd68d4eb7fd3c19d23c5de.jpg</image>
+      <image>/img/products/images/b432abff46754f5019f8c1ae001c6d92.jpg</image>
+      <image>/img/products/images/3aabdc888ac8dbb623d60490f309621d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0185 Стильное белое платье, платье белое, белое платье, зеленый горох, воротник, пуговки</name>
+    <structure>Хлопок</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/190.jpg</image>
+      <image>/img/products/images/cb4aecf3fa381f5862099659f8acfe7d.jpg</image>
+      <image>/img/products/images/72afdca6c665449092d97f43bf9f80c7.jpg</image>
+      <image>/img/products/images/d8d4122d43fec3f73021fd2fadb3e388.jpg</image>
+      <image>/img/products/images/4a805b9adc6cabd0bfd222f59b498cfa.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0199 Платье голубое, голубой, голубое платье, белые вставки, манжеты, воротник, бочонок. </name>
+    <structure></structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350840099207.jpg</image>
+      <image>/img/products/images/c3b3eabd100675036e34e2f7bf594a13.jpg</image>
+      <image>/img/products/images/9b61e3055abde49badf74b4b0a5ea3b2.jpg</image>
+      <image>/img/products/images/913f0a4cc7adadeeb1dc04a8842f04a7.jpg</image>
+      <image>/img/products/images/0fb9b1178d7196e049efb250e6943091.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0200 Платье двухцветное, баска, беж и бирюза, бежевый верх, бирюзовый низ</name>
+    <structure>коттон и эластан  </structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350839926208.jpg</image>
+      <image>/img/products/images/f1fca9da5ebb3a33b59cf7a719eb8920.jpg</image>
+      <image>/img/products/images/5f0f92bcfdffcfe7a763ce64c4ece60d.jpg</image>
+      <image>/img/products/images/a2b74c7fd2d863d81b590d11ebe6f4f2.jpg</image>
+      <image>/img/products/images/4f9b02e851571fa908e0a91a2817e6a2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0201 Платье бирюзовое, бирюзовый, бирюза, бирюзовое платье, клеш, складки, короткий рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/209.jpg</image>
+      <image>/img/products/images/b68253023c7b8775e5880b2a36af02f6.jpg</image>
+      <image>/img/products/images/7f143ca60f42b088df8cc072fa8b257d.jpg</image>
+      <image>/img/products/images/dbacafb121f42e7ea9ad605aeb2907b9.jpg</image>
+      <image>/img/products/images/b2697a368c064b962d34fae59f35e00a.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0203 Платье бежевое, платье беж, беж, бежевый, бежевое платье, рукав 2/8</name>
+    <structure>коттон и эластан</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/211.jpg</image>
+      <image>/img/products/images/a1e621fafa8d0960a3e54b86bc1ad256.jpg</image>
+      <image>/img/products/images/aa365fd5bec3d2e5563144a68515fdb8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0204 Платье белое, белое платье, белый, белое, ретро, красные цветы</name>
+    <structure>Хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350839984212.jpg</image>
+      <image>/img/products/images/00fab25adf73973c72f2257d6311fbff.jpg</image>
+      <image>/img/products/images/ab58cbb9defcfb79aafaf6c6e401a1aa.jpg</image>
+      <image>/img/products/images/4d1644e25c6e783e900f933067ad9fec.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0205 Платье синее, принт, белые вишенки, белый воротник, рукав фонарик, синий</name>
+    <structure>Батист</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350888862213.jpg</image>
+      <image>/img/products/images/49a515eab8b9bd5d060c29c4d7c3f56d.jpg</image>
+      <image>/img/products/images/521fa7a4cf018bb2b59fb27a1e65cb59.jpg</image>
+      <image>/img/products/images/a759c9907f87b0b4dd192772aca2b3ff.jpg</image>
+      <image>/img/products/images/e21c8d2efbdf46d1897d581eb2d2d0b0.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0206 Платье ретро, рябое, кофейное, принт, складки по груди, клешное</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350888819214.jpg</image>
+      <image>/img/products/images/cab6307c08558d533910a84c3cd6824c.jpg</image>
+      <image>/img/products/images/1c1b0e500d44c93fd1bc571a1606ebab.jpg</image>
+      <image>/img/products/images/8982f594689f5501ab8e4a499e2687fa.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0212 платье серое, серый, v - образный вырез</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225007221.jpg</image>
+      <image>/img/products/images/0a4b22026ee45ba0edc4788aa1954a73.jpg</image>
+      <image>/img/products/images/45e4e4bd35b9c08cf0d958eac731b5b1.jpg</image>
+      <image>/img/products/images/c5c37e32848742871e8c938f4eb7547f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0213 Платье в полосочку, рукав 2/8</name>
+    <structure>двухслойное полотно верхний шар - шерсть, нижний - хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225077222.jpg</image>
+      <image>/img/products/images/c2d307ff1182175cb08fb558fd5b6ac1.jpg</image>
+      <image>/img/products/images/20323b84b4c999e86fb9749dbeeb3894.jpg</image>
+      <image>/img/products/images/74d092d1abe254f88b83e34942b67071.jpg</image>
+      <image>/img/products/images/3deb954aef78428cc87b87838c222a71.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0214 Платье синее, синий, рукав 2/8 </name>
+    <structure>Хлопок, вискоза</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225125223.jpg</image>
+      <image>/img/products/images/ba00b93b2eb2099f3c712f8f84becbac.jpg</image>
+      <image>/img/products/images/7f02289b82d6a2979ef2de461780ee8b.jpg</image>
+      <image>/img/products/images/12d0b968924309f4c506a1ff5a9827ad.jpg</image>
+      <image>/img/products/images/2589a48147fe3fc8f3b86736243f5691.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0216 платье в клетку, вырез лодочкой, с карманами</name>
+    <structure>полушерсть</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351179595225.jpg</image>
+      <image>/img/products/images/d971704705ab64becb2388a23b06b5a5.jpg</image>
+      <image>/img/products/images/e10c5df55725103c5839bcd81c4a3c87.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0217 Платье трикотажное, пояс резинка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225188226.jpg</image>
+      <image>/img/products/images/e2e182bf445e75d4aa87aa95cbfd8b80.jpg</image>
+      <image>/img/products/images/1db0919c88e5cb296068a796f5881894.jpg</image>
+      <image>/img/products/images/04848a2b54804e923d7641ae72576e3a.jpg</image>
+      <image>/img/products/images/38ac20e119f6268995d962dad0121da9.jpg</image>
+      <image>/img/products/images/52a36dc6d74fe8519f0d0c685e850a99.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0218 Платье серое, длинное, в пол, серый, рукав 2/8 </name>
+    <structure>Хлопок, вискоза</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225330227.jpg</image>
+      <image>/img/products/images/eb8c63bf55f943ebd03d2a4bf6259791.jpg</image>
+      <image>/img/products/images/a5f9c019b3f02eaaaa0b70c84e88e991.jpg</image>
+      <image>/img/products/images/26f306ac00aa0d876626c7b595fff863.jpg</image>
+      <image>/img/products/images/50decff152c066c2a98c945c935e7df3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0219 Платье терракотовое, терракотовый, длинный рукав, коричневый манжет, воротник </name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225347228.jpg</image>
+      <image>/img/products/images/4559bf42efae286bb98b9babe71ad217.jpg</image>
+      <image>/img/products/images/add6e86dd0471f3a8e60b34df5ac29fb.jpg</image>
+      <image>/img/products/images/37627c9817b45196a9ee782fe7068dbd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0220 Платье темно-синее, рукав 2/8</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225365229.jpg</image>
+      <image>/img/products/images/3cfc8cc2b13a18ea4358e52339892e66.jpg</image>
+      <image>/img/products/images/294334f4f492dfa7f21c95e773d98292.jpg</image>
+      <image>/img/products/images/cce5137440bf1b0757cceaa958a1e515.jpg</image>
+      <image>/img/products/images/270fa48c5fe8171147fbe7a7b0d4bd8c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0060 Платье бордового оттенка, клеш</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225389230.jpg</image>
+      <image>/img/products/images/b5903d8159f3a8eb29d2a4f2cb9faf6f.jpg</image>
+      <image>/img/products/images/4567ba9341246f8aee972f8ad066b624.jpg</image>
+      <image>/img/products/images/a2e6bbf29f978c49e9a199f7f385c005.jpg</image>
+      <image>/img/products/images/8940c54e0172d4c3b0b64cae0d3c600f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0222 Платье с бордовым оттенком, прямое, приталенное, рукав 2/8</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>549</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351229846231.jpg</image>
+      <image>/img/products/images/d2709465eb5f47e2f66124f0b8701808.jpg</image>
+      <image>/img/products/images/a813ebed5ee8ec7b88ca892855c4b7b7.jpg</image>
+      <image>/img/products/images/9242129108d0d0f789e52e75d432ebab.jpg</image>
+      <image>/img/products/images/c67883e7ceddd2f9b83e4b2179e5c0e7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0223 Платье черное, рукав 2/8</name>
+    <structure>коттон и эластан  </structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225444232.jpg</image>
+      <image>/img/products/images/a9f23fcde50c6db4f51bb471896e40c2.jpg</image>
+      <image>/img/products/images/56f1538111afebd1e0767449e3fcb776.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0225 Платье черное, приталенное, длинный рукав, ставки воротник и манжеты</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351230346234.jpg</image>
+      <image>/img/products/images/cd2da02643a821396d5ee7ac0372fce7.jpg</image>
+      <image>/img/products/images/37206c123db91450495a8d4855df1929.jpg</image>
+      <image>/img/products/images/5bb36d161a48d4e76af05cd8a748859b.jpg</image>
+      <image>/img/products/images/b670347b403c2a3cb5465ded6dda36f5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>Нет в наличии! 0226 Платье черное, с цветочным принтом, клешная юбка</name>
+    <structure>верх - хлопок, вискоза, низ - коттон</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225476235.jpg</image>
+      <image>/img/products/images/e3102504ae68deb78a61a09facd7a458.jpg</image>
+      <image>/img/products/images/544ab7faeb7f2e30243b2ac9842fd075.jpg</image>
+      <image>/img/products/images/c4de865f4fc648feeed5a9c0ef311566.jpg</image>
+      <image>/img/products/images/7589b6854f10625b624b13f81b9c584f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0228 Платье черное, рукав 2/8, вырез лодочка</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351231093237.jpg</image>
+      <image>/img/products/images/b49ea6af63fef4f6b7757ad27a548a1c.jpg</image>
+      <image>/img/products/images/e6576b32a64ed551baa879ebb9d4b098.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0229 Платье двухцветное, беж - верх, зеленый -низ, низ клеш, рукав 2/8</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225499238.jpg</image>
+      <image>/img/products/images/7d04590e7337b5c66a47fd552a2ef973.jpg</image>
+      <image>/img/products/images/95dc10e2414b2aaa9067af31dff0af54.jpg</image>
+      <image>/img/products/images/722c5617318f15318dc7cb82ef110b8d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0230 Платье двухцветное, беж - верх, синий - низ, низ клеш, рукав - 2/8</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351232111239.jpg</image>
+      <image>/img/products/images/0d81b3d9b61f1c9209d5028994afb869.jpg</image>
+      <image>/img/products/images/922c53fa2a02b692e5fea48f7b727120.jpg</image>
+      <image>/img/products/images/443c6fb62c8812ecf1952d9456221985.jpg</image>
+      <image>/img/products/images/3f6b307a4ba0331b73e8aca5b0fe0cc1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0236 туника серая, олени, карманчики</name>
+    <structure>трикотаж</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355732618245.jpg</image>
+      <image>/img/products/images/68500c94ce36309b515504c8ecd20245.jpg</image>
+      <image>/img/products/images/f1f4142eeb190a47eab442be90748165.jpg</image>
+      <image>/img/products/images/dc24db6040be9d0efc4d9291718ac350.jpg</image>
+      <image>/img/products/images/1f379f94449b9e3bb7900c9f10b5febc.jpg</image>
+      <image>/img/products/images/889a215d74045e5ac52ee4b3377c0642.jpg</image>
+      <image>/img/products/images/82711696c3ffd4a6cea77964033266f6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0237 Платье молочное с хомутом, длинным рукавом и манжетами</name>
+    <structure>шерсть, хлопок</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733508246.jpg</image>
+      <image>/img/products/images/d4af478cb4e8a41bacf746262ca56618.jpg</image>
+      <image>/img/products/images/e6fdf6bbc435ce8695cf829c2a286da9.jpg</image>
+      <image>/img/products/images/e8d01a2a094588fe8a8fa44f754045b5.jpg</image>
+      <image>/img/products/images/3b94d0bd28a04a1841eb854998457ad9.jpg</image>
+      <image>/img/products/images/9d2d259168cfae2ec673db82cd2cf301.jpg</image>
+      <image>/img/products/images/fb1503bf2b7258a5e3bb3df91626e44e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0238 Туника белая, олени, карманы</name>
+    <structure>флис</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733550247.jpg</image>
+      <image>/img/products/images/cb94a0e658159ced21084cf0a6bfc3ef.jpg</image>
+      <image>/img/products/images/9edde0518720a974c7718bf38231d3a6.jpg</image>
+      <image>/img/products/images/59bef53332932934b8ac8db66e1dfd08.jpg</image>
+      <image>/img/products/images/d12979d0af79fa3e413dfb36b4a98b75.jpg</image>
+      <image>/img/products/images/dd7d8e783fc233d47cde284bb107f57e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0239 платье в синюю полосочку, длинный рукав, вырез лодочка</name>
+    <structure>хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/248.jpg</image>
+      <image>/img/products/images/01d8b1275d580d926ef5b3fdd4d6ceff.jpg</image>
+      <image>/img/products/images/1ecea9c5bf183010eec06cb28a6b527f.jpg</image>
+      <image>/img/products/images/a26dd9e778647aaece6ee3d9bafe351d.jpg</image>
+      <image>/img/products/images/5ce1e08b67b504cb06882115c08287a5.jpg</image>
+      <image>/img/products/images/9f634f57fbfe1fac4c6b50e65cce2d77.jpg</image>
+      <image>/img/products/images/00a9942402133ff09566cc55fe5b51b3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0240 платье в красные полосы, длинный рукав, вырез лодочка</name>
+    <structure>хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733594249.jpg</image>
+      <image>/img/products/images/e22c693306448246848b3cc35833a09a.jpg</image>
+      <image>/img/products/images/73c7284db31329aab503b3192d8cc23c.jpg</image>
+      <image>/img/products/images/f46048e23b1e8db55b9877df27bf8137.jpg</image>
+      <image>/img/products/images/d1312eee0d0dc118cf70afe3a9383688.jpg</image>
+      <image>/img/products/images/b50e206f86386ff878588f29eb4474cc.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0241 платье молочное, теплое, длинный рукав</name>
+    <structure>шерсть, хлопок</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733649250.jpg</image>
+      <image>/img/products/images/23c0e9ebcd3c4d2821a1ab32eb2b1c15.jpg</image>
+      <image>/img/products/images/5e5bc7b4508624be05819303eaa36e2b.jpg</image>
+      <image>/img/products/images/c8d05cbdc4f3f8a82dfd5af034b46ba4.jpg</image>
+      <image>/img/products/images/e212f87c49aaa39e47d7baa8a44211e3.jpg</image>
+      <image>/img/products/images/a4bdcb05a74cb1cfc5acda8b9d2ae162.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0250 платье бежевое, коричневые вставки воротник и манжет, прямое, длинный рукав.</name>
+    <structure>трикотаж</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357228703259.jpg</image>
+      <image>/img/products/images/fa8a9d45bd9b0bb2670f280623095411.jpg</image>
+      <image>/img/products/images/02faf38cacaccdd788a5526cd3384b13.jpg</image>
+      <image>/img/products/images/1dbd3c9c685b91650f836f31056a7bba.jpg</image>
+      <image>/img/products/images/7d8f10a963486b6a92611b743d0d421e.jpg</image>
+      <image>/img/products/images/0ce1885a47a1949738dcae042143fb85.jpg</image>
+      <image>/img/products/images/6f9196a41a6117213c818976c73212ca.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0251 Платье синее ретро, ажурный воротник.</name>
+    <structure>костюмная ткань</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355733779260.jpg</image>
+      <image>/img/products/images/ee1134ab1ca6d4d07caa969ba767d73a.jpg</image>
+      <image>/img/products/images/c5dd58776b84ce169ce9f3f85870684d.jpg</image>
+      <image>/img/products/images/398a4a80fc671f16218bfb6279ceffae.jpg</image>
+      <image>/img/products/images/8da5a0c287ffc919035be42297a44ad1.jpg</image>
+      <image>/img/products/images/5acfde3fb9da78f4ea6c7f2794884e0b.jpg</image>
+      <image>/img/products/images/a8c16b338475af19351c7255331aee6c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0252 Платье кофейное, без рукавов</name>
+    <structure>трикотаж</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/261.jpg</image>
+      <image>/img/products/images/f0c2fcd220682fb656bfd6fc3bebcc6e.jpg</image>
+      <image>/img/products/images/eb0e50a884fcb34aef192003af379beb.jpg</image>
+      <image>/img/products/images/2514215c98712b890446e45d29aaa5d9.jpg</image>
+      <image>/img/products/images/ec7f9c0fe0954321229b85b5252d0cc3.jpg</image>
+      <image>/img/products/images/bba8f2ff451bef046e99586e56c57add.jpg</image>
+      <image>/img/products/images/7fa3adceb0b73e5bce5efc73aee1c091.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0261 Платье красное, шифон, миди</name>
+    <structure>шифон</structure>
+    <price>1999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1355731868270.jpg</image>
+      <image>/img/products/images/bdfd2dea0436dbfb46dc5d2d950f807a.jpg</image>
+      <image>/img/products/images/f0258702769a1efaf42e11d111130788.jpg</image>
+      <image>/img/products/images/049297c8b9ec278c0c70e6aad906c153.jpg</image>
+      <image>/img/products/images/814a398462561408624c7c324d5f7683.jpg</image>
+      <image>/img/products/images/3cc9b0e924c1876be7b11d681b91d9fa.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0262 Платье ажурное синее с круглым воротником в пол</name>
+    <structure></structure>
+    <price>1199</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/271.jpg</image>
+      <image>/img/products/images/c83464c3d0a0e51e709a40bcbbead02b.jpg</image>
+      <image>/img/products/images/51fc4256cf23e31d4a89258c9bf58bcc.jpg</image>
+      <image>/img/products/images/c68abe14f40affae870a97886ec9ab54.jpg</image>
+      <image>/img/products/images/8a365de12f6fafce77ac41dce27e6940.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0263 Платье черное ажурное, миди</name>
+    <structure>трикотаж</structure>
+    <price>1199</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/272.jpg</image>
+      <image>/img/products/images/94e0d135f15fdf610c5cdc26b42bfb06.jpg</image>
+      <image>/img/products/images/2164c43b32fd0aef914ed47ac02e55c8.jpg</image>
+      <image>/img/products/images/8eb7c8023f8ae4ad634c25e6cccdb2c7.jpg</image>
+      <image>/img/products/images/7bd4dd74fc5401457b98ad7540c01d4f.jpg</image>
+      <image>/img/products/images/0adedb8e9ec05858c79d66cd841d1ca8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0264 Платье черное ажурное в пол</name>
+    <structure>трикотаж</structure>
+    <price>1199</price>
+    <text>Платье длины макси, выполнено из черного мягкого гипюра с трикотажной подкладкой телесного цвета - масло - элегантная модель для волшебного вечера.</text>
+    <images>
+      <image main="1">/img/products/main/273.jpg</image>
+      <image>/img/products/images/be38adb68facb44ff2f4047e1fe1198d.jpg</image>
+      <image>/img/products/images/be15f1c29bca16e79c4a7208afe6bc2e.jpg</image>
+      <image>/img/products/images/fde8d8e2804bce3b9f4b49f5ddb6ba2d.jpg</image>
+      <image>/img/products/images/41ef2dfe42fd18195efdf532b7f72c79.jpg</image>
+      <image>/img/products/images/3bfcf493bc9be4824788b983bb0bd6ea.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0265 Платье белое, в пол, длинный рукав</name>
+    <structure>костюмная ткань</structure>
+    <price>1199</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/274.jpg</image>
+      <image>/img/products/images/ab1bd31270778cddb65bca1937118331.jpg</image>
+      <image>/img/products/images/61adf01cd6dadd346fe127389b4988dd.jpg</image>
+      <image>/img/products/images/d88ab8d05236258c38fc74651df9f470.jpg</image>
+      <image>/img/products/images/70a6c9968a381a164f9b7dc76ccfb26d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0266 Платья бежевые шифоновые, миди</name>
+    <structure>шифон</structure>
+    <price>1999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/275.jpg</image>
+      <image>/img/products/images/716e8546017868b119f707a46e51f2ac.jpg</image>
+      <image>/img/products/images/5493258d5e78d5837fdbb412a481e948.jpg</image>
+      <image>/img/products/images/c41a765762664258a64a0d18955f4945.jpg</image>
+      <image>/img/products/images/7ad89d4fb811b93a05a3ed914a6039f4.jpg</image>
+      <image>/img/products/images/109612f525121fcdafc0b0b7eda2c1c8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0267 Платье синее, шифон, на грудь в пол</name>
+    <structure>шифон</structure>
+    <price>1999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/276.jpg</image>
+      <image>/img/products/images/e6cf55faf950e88f7ed4f3ef624c5a6a.jpg</image>
+      <image>/img/products/images/8443014f08ab6b443b8439210faa0d04.jpg</image>
+      <image>/img/products/images/88ea9e9b36080db2c34137e0a442a6c4.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0272 Платье черное вырез лодочка, карманы, длинный рукав, черный</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360850156281.jpg</image>
+      <image>/img/products/images/ef200e39d6c68ce144097485a4d89385.jpg</image>
+      <image>/img/products/images/d3e0aa2a5c8c2f1c6b7d829aa66aa34a.jpg</image>
+      <image>/img/products/images/bed11ce81c66898efbe297125f355785.jpg</image>
+      <image>/img/products/images/40df45f2f1b1c4f2edafc23a526b0047.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0273 Платье синее, темно-синий, карманы, вырез лодочка</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/282.jpg</image>
+      <image>/img/products/images/18b78fc6f9328553f0da5066f008479c.jpg</image>
+      <image>/img/products/images/02948e757debe4641b969f928a9241de.jpg</image>
+      <image>/img/products/images/28b435f9b0cd573e870fefea5945f1b0.jpg</image>
+      <image>/img/products/images/12b43f4ade6e3bf06efd405d90149e62.jpg</image>
+      <image>/img/products/images/6835a7ab2ed44b2f29b530e2c2cd2eb2.jpg</image>
+      <image>/img/products/images/9c2272b97e72f590f2a5b35583e3bd17.jpg</image>
+      <image>/img/products/images/ba5037fb03166a16fe48e4213cfe973d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0275 Платье черное короткий рукав, воротник</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360850115284.jpg</image>
+      <image>/img/products/images/21486c2027ad24a2a8967dbb303b300e.jpg</image>
+      <image>/img/products/images/7f26b18c36420e9c96d2266b74cd8ff1.jpg</image>
+      <image>/img/products/images/360736c408df5f9b0d925d1d747a8207.jpg</image>
+      <image>/img/products/images/16ba0ebdb2d3f9f4ad7570a79c784245.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0276 Платье синее, темно-синий, короткое, короткий рукав</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360416274285.jpg</image>
+      <image>/img/products/images/edccc769438a4a233d10485f95e86399.jpg</image>
+      <image>/img/products/images/5c18c1f293b8596f481e0a04f9e68cbe.jpg</image>
+      <image>/img/products/images/b2abbbad9d2522b3f3fa5079360574b7.jpg</image>
+      <image>/img/products/images/5fedc4c510f1cc472322aa5b54987497.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0277 Платье черное, макси, в пол, шлица, длинный рукав</name>
+    <structure>трикотаж</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360850085286.jpg</image>
+      <image>/img/products/images/2f1df156569217eabf8295cd47c50b24.jpg</image>
+      <image>/img/products/images/2748591819fb07e3804c1b6d1d40f1cc.jpg</image>
+      <image>/img/products/images/b550bca904d93b62cd89b3f2119aac74.jpg</image>
+      <image>/img/products/images/9d3bb4601fb0ef644a0ccda1f89fd179.jpg</image>
+      <image>/img/products/images/8291e2ef45502204c404fd28763e6e69.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0278 Платье гипюр, черный , воротник</name>
+    <structure>гипюр, подкладка - трикотаж масло</structure>
+    <price>899</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/287.jpg</image>
+      <image>/img/products/images/1094efa7821cdfd875cd2029f21f58a0.jpg</image>
+      <image>/img/products/images/0b7ba07520a442fa893e22709b87a010.jpg</image>
+      <image>/img/products/images/c0c828f27f251c24770cac590d466712.jpg</image>
+      <image>/img/products/images/2525616f05a9353fadc1a37e3828cc8b.jpg</image>
+      <image>/img/products/images/0ac107a07530249886415917eba45946.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0279 Платье черное, ажурный воротник</name>
+    <structure>костюмка</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360849996288.jpg</image>
+      <image>/img/products/images/944edcf6ee81c44b5cda86a83d703d4b.jpg</image>
+      <image>/img/products/images/13a72c0dc9b0101635e749e022c458da.jpg</image>
+      <image>/img/products/images/ced71ac9f5545e7213a1ed095c170ee4.jpg</image>
+      <image>/img/products/images/05d59a5dbed22b235e9dbf765f9332ef.jpg</image>
+      <image>/img/products/images/1728e6c9d6c0508e441f0da74bbe6778.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0282 Платье красное, карманы, вырез лодочка</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/291.jpg</image>
+      <image>/img/products/images/16b6197fb3b1462ba5ea9d056ba16ea2.jpg</image>
+      <image>/img/products/images/2ca646f3789b264c87b4d7bc15218814.jpg</image>
+      <image>/img/products/images/7ec83f04bcd180f6ff616a639e37407d.jpg</image>
+      <image>/img/products/images/c2e3df3ef6f1695edefa3a1dc940e5cd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0284 Платье беж, бежевый, вырез лодочка, длинный рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360774937293.jpg</image>
+      <image>/img/products/images/3c59e77a6157040fb4114e04bfe328f9.jpg</image>
+      <image>/img/products/images/9f368fcf8b9a7cd90e256fae52cface0.jpg</image>
+      <image>/img/products/images/2132efb593806825cacc187a2fb82a24.jpg</image>
+      <image>/img/products/images/5f0151c4052d24bdaebaca2c7a8893fe.jpg</image>
+      <image>/img/products/images/6708783447efa6f69ae05dfa5a13a08f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0285 Платье беж, баска, бежевый</name>
+    <structure>коттон и эластан</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360774711294.jpg</image>
+      <image>/img/products/images/653323d6225e70c7378d6213ced85c7f.jpg</image>
+      <image>/img/products/images/870435b0159d25738e4ec7db6e74c5b6.jpg</image>
+      <image>/img/products/images/4b802a738e555fa26c8bf78845c596de.jpg</image>
+      <image>/img/products/images/21aef1dad3992824be54e1db048f1f48.jpg</image>
+      <image>/img/products/images/5d4833eadcc561b87a5a414dae3da5ea.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0286 Платье беж, бежевый, воротник, короткий рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360774418295.jpg</image>
+      <image>/img/products/images/55aa09dd149740de3babd2995008e131.jpg</image>
+      <image>/img/products/images/4c79a2df6bbcd5aeb55280ac11bb375c.jpg</image>
+      <image>/img/products/images/b014fa3ec85942268972bf219c2651eb.jpg</image>
+      <image>/img/products/images/b92975fe82ff382ca5e55505ce5d42f8.jpg</image>
+      <image>/img/products/images/bc48e31833568a178304739e8235de8f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0287 Платье желтое, желтый, вырез лодочка, коттон, длинный рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/296.jpg</image>
+      <image>/img/products/images/789c1d080bce84b70b75b940fc7c4038.jpg</image>
+      <image>/img/products/images/904dc7bfc8b76a60175ad87fc01618b4.jpg</image>
+      <image>/img/products/images/e6daa361fee35593f1838b4bd0f5fd6b.jpg</image>
+      <image>/img/products/images/f9f05c38b136b4c70036a24c13dc282d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0288 Платье желтое</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360774004297.jpg</image>
+      <image>/img/products/images/aca6720a3ab35704622b5c50f06fd136.jpg</image>
+      <image>/img/products/images/938d7559578a1631fc9619d250bb7416.jpg</image>
+      <image>/img/products/images/4953e017c2ddf8d9a085e069773f96cf.jpg</image>
+      <image>/img/products/images/b15d43a6db7c93f94847cf2f7444fd10.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0289 Платье голубое, вырез лодочка, голубой, карманы</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360773621298.jpg</image>
+      <image>/img/products/images/4cb6d1abd7307ed293692d78f2a1447b.jpg</image>
+      <image>/img/products/images/4321a5c38c607f1782eae2f967513c25.jpg</image>
+      <image>/img/products/images/05e170b68f3f785a9e80d4221bfe5161.jpg</image>
+      <image>/img/products/images/0b4677d96f4187fa96b47080499e5d56.jpg</image>
+      <image>/img/products/images/5917cc5cfacbf7ebcf9273f17976e2d0.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0290 Платье голубое клеш, длинный рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/299.jpg</image>
+      <image>/img/products/images/73ba89e4433442558664a150c8f72036.jpg</image>
+      <image>/img/products/images/6deca89f3f1ccde27def4bb3ceaeb7a7.jpg</image>
+      <image>/img/products/images/ac3a717d3381503b44fd310d843644c9.jpg</image>
+      <image>/img/products/images/bf31e2e1603d53a8354c9ea38f6a3efd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0291 Платье черное, клеш, черный, длинный рукав, вырез лодочка</name>
+    <structure>костюмка</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360849888300.jpg</image>
+      <image>/img/products/images/1d38ad34ce53f223d2f7c4ced3355de9.jpg</image>
+      <image>/img/products/images/ffcf6d97f92c7b0f01398b3eea1240e6.jpg</image>
+      <image>/img/products/images/6b6af3beac42d8d237b8727b7ecd5d5e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>4</type_id>
+    <name>0292 Платье беж, клеш, бежевое, длинный рукав</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/301.jpg</image>
+      <image>/img/products/images/c5ad5aa0f5f8df2b44d246f89b4bba3f.jpg</image>
+      <image>/img/products/images/81cb9ecef3ba5f223d153b8e8e4da360.jpg</image>
+      <image>/img/products/images/9e66dccee1fca2bc29564d68767b9fe7.jpg</image>
+      <image>/img/products/images/0c9919d17f6c00e2223860fc8b605f12.jpg</image>
+      <image>/img/products/images/5044235efe45a5cbe7951f6a982f0d00.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0100 Юбка синяя, синий темно-синий, рюши, синяя юбка, синяя, ярусы</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133831892677.jpg</image>
+      <image>/img/products/images/231b11398565b6ca6c1608200e23efe2.jpg</image>
+      <image>/img/products/images/2e48df25bb0ce0229a2f5a88e90e63d4.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0101 Юбка желтая, ярко-желтый, плиссированая, длинная, желтая, желтый, желтая юбка, макси</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133840374878.jpg</image>
+      <image>/img/products/images/81f44ac7256d62b050df9e171293c1a0.jpg</image>
+      <image>/img/products/images/af55e75cbb593cb319daca9f14007df2.jpg</image>
+      <image>/img/products/images/c514eec7e71a93c0391053f0abe5b479.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0102 Юбка зеленая, плиссированная, длинная, зеленый, зеленая, зеленая юбка, макси</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133840386079.jpg</image>
+      <image>/img/products/images/d3e3f5327277e8848c54b79df6004381.jpg</image>
+      <image>/img/products/images/acb3028945016a0b19141f1a3833e2c6.jpg</image>
+      <image>/img/products/images/9d85d7d0a5c6dfd642e193ad10295f29.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0103 Юбка оранжевая, оранж, плиссированная, длинная, оранжевая, оранжевая юбка, макси, в пол</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133840396080.jpg</image>
+      <image>/img/products/images/3715fa119172ae124ca70223e258fdfd.jpg</image>
+      <image>/img/products/images/ddd3d35d1d040c892f17cb88009b1677.jpg</image>
+      <image>/img/products/images/55c49714197b75ba886c75035a3d66b2.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0104 Юбка синяя, темно-синий, синий, плиссированая, длинная, в пол, макси, синяя, синяя юбка</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133840431381.jpg</image>
+      <image>/img/products/images/1826e03f67ebe36ce123bf54a43bb478.jpg</image>
+      <image>/img/products/images/6550f20c28f6a601fe24d55a76444142.jpg</image>
+      <image>/img/products/images/56d98f6ee0fa502fd1393695d221b347.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0079 Юбка серая, карандаш, серый, шерсть, серая юбка, серая</name>
+    <structure>шерсть, вискоза, эластан</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133831869391.jpg</image>
+      <image>/img/products/images/cc918dc03bdf03856ffdced2f055f09f.jpg</image>
+      <image>/img/products/images/80dbcaff6f3f51b55dfa629db31a4474.jpg</image>
+      <image>/img/products/images/e9237dd17cccc4417f0bc5d6003cf75f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0026 Юбка жаккардовая, беж, желтый, широкий пояс, жаккард, жаккардовая юбка, желтая юбка, юбка желтая, желтая</name>
+    <structure>жаккард</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338320393100.jpg</image>
+      <image>/img/products/images/103bd31b91ca05c7d249b45a01de57ab.jpg</image>
+      <image>/img/products/images/3427e61439ab72b4d3593c3dea808c0e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0176 Юбка бежевая, беж, длинная, в пол, макси, бежевая, бежевый, бежевая юбка, юбка беж</name>
+    <structure>шифон</structure>
+    <price>399</price>
+    <text>Юбка бежевая, длинная</text>
+    <images>
+      <image main="1">/img/products/main/1338319655102.jpg</image>
+      <image>/img/products/images/da5252580e517e7d7a205507a8c2d53f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0177 Юбка бежевая, беж, плиссированная, длинная, в пол, макси, бежевая, бежевый, бежевая юбка, юбка беж</name>
+    <structure>шифон</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338463615103.jpg</image>
+      <image>/img/products/images/0bb2d1b27c3468060bc758d9239a5343.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0114  Юбка красная, длинная, миди, красный, красная, красная юбка, </name>
+    <structure>коттон и эластан  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341482519110.jpg</image>
+      <image>/img/products/images/af1d39b501a72e7bcae5f87c677e1d0c.jpg</image>
+      <image>/img/products/images/6e48995f066480412b2075c6fc2e53e7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0132  Юбка красная, длина до колена, красный, клеш, красная юбка</name>
+    <structure>коттон и эластан  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/127.jpg</image>
+      <image>/img/products/images/3cb25d4cad856354d4926350a5e11c52.jpg</image>
+      <image>/img/products/images/bd2c6f94f9e2c2d51643f2281415ed85.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0133  Юбка красная, короткая, красный, красная, красная юбка, клеш</name>
+    <structure>коттон и эластан  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/128.jpg</image>
+      <image>/img/products/images/43255ddac7488b6e83482c774366b41a.jpg</image>
+      <image>/img/products/images/617a488c2731003a69fc9b789cbfe1fd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0136  Юбка зеленая, длинная, зеленый, в пол, зеленая юбка, макси, юбка макси</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/137.jpg</image>
+      <image>/img/products/images/4d83d43535ae1345cef02f2384043d34.jpg</image>
+      <image>/img/products/images/d6d34292b8987346db33ab6c38299c56.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0137  Юбка синяя, синий, темно-синий, длинная, в пол, макси, синяя юбка, юбка макси</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/138.jpg</image>
+      <image>/img/products/images/2dd7f139b10c53fdfbd1a439407c6dbe.jpg</image>
+      <image>/img/products/images/737fe3894cbd253683f4274d1117aa05.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0138  Юбка оранжевая, оранж, длинная, в пол, макси, оранжевая юбка, юбка макси</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/139.jpg</image>
+      <image>/img/products/images/0b0c0682dbf96419d1b9617b9e7fdee1.jpg</image>
+      <image>/img/products/images/0a727fbeae9b785a3e79a66fa4385860.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0139 Юбка бежевая, разноцветный горох, длинная, беж,бежевая юбка, юбка в разноцветные горохи</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/140.jpg</image>
+      <image>/img/products/images/d6016f1f9b1c15289645bce941889f4f.jpg</image>
+      <image>/img/products/images/6cc7c6c25b40fab06cf5b0bdc82dd1a7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0140  Юбка желтая, желтый, якро-желтый, длинная, в пол, макси, желтая юбка, юбка макси</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/141.jpg</image>
+      <image>/img/products/images/c3fedd82137548da9565cb7ecf78559e.jpg</image>
+      <image>/img/products/images/d349701cb4bf6568b7f6f7eb14b7b9c4.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0120  Юбка бежевая, разноцветные горохи, миди, беж, бежевый, цветные горохи, горох, юбка горох</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/142.jpg</image>
+      <image>/img/products/images/d5ea2d40a0912c8a57f38bc83ea63eeb.jpg</image>
+      <image>/img/products/images/8b6e2e5e5dbb0e8bb2ddbeb95920d456.jpg</image>
+      <image>/img/products/images/0f96bd9f249772658a4149f95aaf4c84.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0148 Юбка зеленая, зеленая юбка, зеленый, зеленая, миди, клешная, клеш,</name>
+    <structure>коттон, эластан</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341492820151.jpg</image>
+      <image>/img/products/images/20fc2ab365f1abe3026924aa0e800400.jpg</image>
+      <image>/img/products/images/6799c7091ca34d70ebbae9d290dcae01.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0164 Юбка белая, белая  юбка, белая, белый, короткая, рюши, ярусы</name>
+    <structure>Хлопок</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/162.jpg</image>
+      <image>/img/products/images/880d84bad0b4348d2ccd76dd27595733.jpg</image>
+      <image>/img/products/images/fa228dd5cdd54f78377e0b75f83ae4cb.jpg</image>
+      <image>/img/products/images/6f908123a802762271305834cbc02d87.jpg</image>
+      <image>/img/products/images/e6ce46d259a158d8d3e9cbf11160be81.jpg</image>
+      <image>/img/products/images/a42253ba1e134e419e9ef6aa98257162.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0168 Юбка бирюзовая, бирюзовая юбка, юбка бирюза, бирюзовая, бирюзовый, бирюза, а пол, длинная, макси, юбка макси</name>
+    <structure>Хлопок</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342778527174.jpg</image>
+      <image>/img/products/images/cc0dfa84b301458daae7ed8fe68bb374.jpg</image>
+      <image>/img/products/images/4a0f8124a596025c201f112f0ec3b615.jpg</image>
+      <image>/img/products/images/ba848310d6f99972c2cfcf115164d4ca.jpg</image>
+      <image>/img/products/images/25d703256ff3b63719dfd079a8626967.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>Нет в наличии! 0192 Юбка короткая, юбка бирюза, бирюзовый, бирюзовая юбка, рюши на боковых швах</name>
+    <structure>коттон и эластан  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/200.jpg</image>
+      <image>/img/products/images/0dfe981f0646af67e2186e795f751124.jpg</image>
+      <image>/img/products/images/61d1c590d41a460f2a43eed4659c8ece.jpg</image>
+      <image>/img/products/images/b5a15d4d3a6539dbc7825bd1a28b88ec.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>Нет в наличии! 0193 Юбка миди, бирюзовый, бирюзовая юбка, юбка бирюзовая, бирюза, карманы</name>
+    <structure>коттон и эластан</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/201.jpg</image>
+      <image>/img/products/images/1c01bc340f8aa9559c396d62e71d4284.jpg</image>
+      <image>/img/products/images/600bfe952508dec0f58e6d58eb202240.jpg</image>
+      <image>/img/products/images/33509fcbae3cbf8966a38ea77a4cfac5.jpg</image>
+      <image>/img/products/images/9bac3fd09cf4d3319813d4e35bbcd9b5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>Нет в наличии! 0194 Юбка карандаш, карандаш, юбка бирюзовая, бирюзовый, бирюка, бирюзовая юбка, приталенная.</name>
+    <structure>коттон и эластан  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/202.jpg</image>
+      <image>/img/products/images/1d462661b5088e8d445f15bd1fdd174f.jpg</image>
+      <image>/img/products/images/099c1fc253d7df6556798d37bbbba33b.jpg</image>
+      <image>/img/products/images/8d203f1e5f21bdf83e494651a7227d09.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0195 Юбка короткая, юбка бежевая, бежевый, бежевая юбка, рюши на боковых швах, беж</name>
+    <structure>коттон и эластан</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/203.jpg</image>
+      <image>/img/products/images/9bec577f31b7787d9948059aa96c1ee5.jpg</image>
+      <image>/img/products/images/912e5be7eced8bfbcff6a37f3404af47.jpg</image>
+      <image>/img/products/images/8bd5bf284da9bcdb175e50f18c78a2a6.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0197 Юбка миди, бежевый, бежевая юбка, юбка бежевая, беж, карманы</name>
+    <structure>коттон и эластан</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/205.jpg</image>
+      <image>/img/products/images/fa0625097b11085a071149c04e707829.jpg</image>
+      <image>/img/products/images/92eab5ced043fcc92a58f8b65e424a61.jpg</image>
+      <image>/img/products/images/0634d48309409f382e575cb32abee9dc.jpg</image>
+      <image>/img/products/images/c68de20782aadb07cd6f3b5312f09f77.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0198 Юбка карандаш, карандаш, юбка бежевая, бежевый, беж, бежевая юбка, приталенная.</name>
+    <structure>коттон и эластан</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350839806206.jpg</image>
+      <image>/img/products/images/4d18fa94fde7085c286f6fe445be613e.jpg</image>
+      <image>/img/products/images/f0b005b4926f6717bfd12f4c4c619256.jpg</image>
+      <image>/img/products/images/b5eaad197db6c2e99277ce342cf15492.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>Нет в наличии! 0215 Юбка в клетку, широкая ассиметричная кокетка, волан, клешный низ</name>
+    <structure>полушерсть</structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351179368224.jpg</image>
+      <image>/img/products/images/fd7b7c388750a876b5ec56050473d7af.jpg</image>
+      <image>/img/products/images/8e75bb276ffd0584002f48672304ffdb.jpg</image>
+      <image>/img/products/images/2d02c69f935ba93bd93f0d2b937208b1.jpg</image>
+      <image>/img/products/images/33128a6adbdcf20a4ea0315a58e97a9c.jpg</image>
+      <image>/img/products/images/9b4a2242623d09bfa2f32a201f3c470e.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0231 Юбка темно - синяя, костюмная</name>
+    <structure>костюмная ткань</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225580240.jpg</image>
+      <image>/img/products/images/c8910831253f91070b7751c86e47eae6.jpg</image>
+      <image>/img/products/images/07b7e59d18dababb09b0f60b75abf54d.jpg</image>
+      <image>/img/products/images/785355b18bf9ede4a91fc0c1c53ee070.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0232 Юбка темно-синяя, трикотажная</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351232832241.jpg</image>
+      <image>/img/products/images/efe652875e5312f668d68286a7eeac10.jpg</image>
+      <image>/img/products/images/f900fa148e9734687e68ddb5ebbc6e68.jpg</image>
+      <image>/img/products/images/ab4b2a4a6d6b357c097ab65042a6d67a.jpg</image>
+      <image>/img/products/images/bece19f2ceffdc9df5995a05efc1568d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0233 Юбка бордового оттенка, трикотажная</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351233273242.jpg</image>
+      <image>/img/products/images/e583ae4bc24a907c95a076ce37390a86.jpg</image>
+      <image>/img/products/images/b5aa897e4980fed825f3b400f3016ce2.jpg</image>
+      <image>/img/products/images/2a150a923e421f43d6e89b83ed33ab1d.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0234 Юбка терракотовая, терракотовый</name>
+    <structure>коттон и эластан  </structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357225681243.jpg</image>
+      <image>/img/products/images/0ac58abcffcf15f7ad541492e1036559.jpg</image>
+      <image>/img/products/images/29f62ed74131ca777d7b8be235c759c9.jpg</image>
+      <image>/img/products/images/a87abf88046fafc3ff65127056472c29.jpg</image>
+      <image>/img/products/images/939672621ec620c61f40f41fd48324f1.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0242 Юбка бежевая, короткая, складочки</name>
+    <structure>коттон и эластан  </structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/251.jpg</image>
+      <image>/img/products/images/c8d1dbd9deb1d20eb713a9cb1ab7b2cd.jpg</image>
+      <image>/img/products/images/67f135863e8d0d4a6ab51e9aa166ec55.jpg</image>
+      <image>/img/products/images/6da1ce8df587bc17ace7b589384818c8.jpg</image>
+      <image>/img/products/images/cea3ae3077187c089a639caf845c9b1d.jpg</image>
+      <image>/img/products/images/702a5ebe0dbaa1039da53357e8918b89.jpg</image>
+      <image>/img/products/images/05347e9ec29ecf8dfec65a52c7ac9352.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0245 Юбка синяя, широкий пояс, высокая талия</name>
+    <structure>костюмная ткань</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/254.jpg</image>
+      <image>/img/products/images/4218046ef31b0ca55b573bfbcc4b5db6.jpg</image>
+      <image>/img/products/images/de3e0b1705b13afb22d6608bbc73b169.jpg</image>
+      <image>/img/products/images/b8b289f9bd27d9413bcab268aa726f4b.jpg</image>
+      <image>/img/products/images/5f03b3815b3e9ed4cb37b9ea757e431b.jpg</image>
+      <image>/img/products/images/35da4f045230e768709cb578e9d9d53b.jpg</image>
+      <image>/img/products/images/a4b807d807a1e672cd184737aeddf174.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0246 Юбка карандаш, мелкая клетка, черно-белая</name>
+    <structure>костюмная ткань</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/255.jpg</image>
+      <image>/img/products/images/4d3b729dfd0fe4592af56455b673349e.jpg</image>
+      <image>/img/products/images/0a866d5b836e80712e19ec34d1f69d9a.jpg</image>
+      <image>/img/products/images/4dbecb861e72536d2c853716f5026854.jpg</image>
+      <image>/img/products/images/dd9e33af109a94983a3ac519e5631147.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0247 Юбка карандаш, мелкая клетка</name>
+    <structure>костюмная ткань</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/256.jpg</image>
+      <image>/img/products/images/8e7843341ee976279f36cc6e18102a49.jpg</image>
+      <image>/img/products/images/7a2bfb81ddb7077bcc3d06a9c3808acc.jpg</image>
+      <image>/img/products/images/fdf1b4c202372adc6a42ab281768db9c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0254 Юбка синяя карандаш, велюр</name>
+    <structure>велюр</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/262.jpg</image>
+      <image>/img/products/images/35481ebcd4ebb65a85cef85e06e776c0.jpg</image>
+      <image>/img/products/images/2021b9afd21108699a9cbccea357414a.jpg</image>
+      <image>/img/products/images/da37f3ca5e71c417b5b8f02316a69465.jpg</image>
+      <image>/img/products/images/0f417bc240c53b1676ad92a1e05a2910.jpg</image>
+      <image>/img/products/images/90e297d01d56458d0904460e80be8743.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0256 Юбка коричневая, велюр, карандаш</name>
+    <structure>велюр</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/265.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0257 юбка карандаш, бордовая, велюр</name>
+    <structure>велюр</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/266.jpg</image>
+      <image>/img/products/images/f091684131ce0b525d25c090754ea5d6.jpg</image>
+      <image>/img/products/images/2e00d7caf0c094434c443dea3e1bcc97.jpg</image>
+      <image>/img/products/images/f21cc5b94f4b8a6040682ee6f47b3f47.jpg</image>
+      <image>/img/products/images/9ecf7b3bc727e23bd000c98a8b0acbd5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0259 Юбка карандаш, черная с баской</name>
+    <structure>костюмная ткань</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/268.jpg</image>
+      <image>/img/products/images/8aca917d2c171bfade9b2ddd15211741.jpg</image>
+      <image>/img/products/images/c78be685eea8b786dc393fa3df012589.jpg</image>
+      <image>/img/products/images/15ead25c0e3c07eeeb415a225304d271.jpg</image>
+      <image>/img/products/images/a3263a0cb751b9c74735d2e9cde3d985.jpg</image>
+      <image>/img/products/images/75804cd02f8b73f9213325a6fdb12e6a.jpg</image>
+      <image>/img/products/images/d8805924229d6ce525706fcdf8a93b47.jpg</image>
+      <image>/img/products/images/1f5c67f41f3ba899251ea8f6fe2612da.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0270 Юбка беж, коттон, бежевый, миди, клеш</name>
+    <structure>коттон, эластан</structure>
+    <price>599</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360850211279.jpg</image>
+      <image>/img/products/images/df63d728421975c2f461c0b807ef65ac.jpg</image>
+      <image>/img/products/images/9bf5fb218bc597e967da83a2a974d15c.jpg</image>
+      <image>/img/products/images/26f4935e9bd365562bb2431d30c8a7f6.jpg</image>
+      <image>/img/products/images/882bacc3908b47926444ab4429c07332.jpg</image>
+      <image>/img/products/images/d8b81d3c22e88fb1b181f81735cf1c05.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0274 Юбка мини черная, гипюр, черный, мини</name>
+    <structure>гипюр, подкладка - трикотаж масло</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/283.jpg</image>
+      <image>/img/products/images/267a89917608441ad4590114e74062af.jpg</image>
+      <image>/img/products/images/e5f535221d042fe6e256c4ec1836ed87.jpg</image>
+      <image>/img/products/images/876732c4519ff2cb52d81fbc70d4d717.jpg</image>
+      <image>/img/products/images/b69f50ac97f78e4eec1ad78c64bdd6db.jpg</image>
+      <image>/img/products/images/ff8d01f441c16a7e65119f8846ca7752.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>10</type_id>
+    <name>0281 Юбка черная, миди, клеш, черный</name>
+    <structure>костюмка</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/290.jpg</image>
+      <image>/img/products/images/2a96cf9ffed574fddb8c895c7120d6af.jpg</image>
+      <image>/img/products/images/851d7fca78c5236bade0c0a761453bad.jpg</image>
+      <image>/img/products/images/1e95e138a1d4c4b01322f1355f167a53.jpg</image>
+      <image>/img/products/images/0d79a2f3abe0d70cac8eac1fab50d60d.jpg</image>
+      <image>/img/products/images/c7ae52f0e8e1f28760f547fb5e605d48.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0178 Брюки черные, зауженные, черный, узкие, черные, черные брюки</name>
+    <structure>шерсть и эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338320275104.jpg</image>
+      <image>/img/products/images/a1addf441fb756c23bfbb5f81bf35bee.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0179 Брюки белые, узкие, зауженные, белый, белые, белые брюки</name>
+    <structure>хлопок и эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1338318747105.jpg</image>
+      <image>/img/products/images/7e1a011187aef249285be8e9534b5a89.jpg</image>
+      <image>/img/products/images/d53945e368a3c07e5884fb89718d987f.jpg</image>
+      <image>/img/products/images/6c308ebc46727a5b9fc7779acee5ea6b.jpg</image>
+      <image>/img/products/images/15e7520fa5aa05e3c4dc764cc6f03b78.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0141  Брюки черные, широкие, клешные от бедра, черный, клеш, черные брюки</name>
+    <structure>шерсть и эластан  </structure>
+    <price>519</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/132.jpg</image>
+      <image>/img/products/images/8c3e3538ce39667c76637dc1e1634e31.jpg</image>
+      <image>/img/products/images/060e17734ad701e8d7cf21b6c2636d1c.jpg</image>
+      <image>/img/products/images/e59651446c4ecaaf79a71cba7e61e880.jpg</image>
+      <image>/img/products/images/8a55163e9d9e75ed3e648c203b9564fe.jpg</image>
+      <image>/img/products/images/fa534b8b7806f3616c638b24038219a0.jpg</image>
+      <image>/img/products/images/33ed379dc063a2c4cf9535a52d87c996.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0166 Штаны, брюки, бирюза, бирюзовые брюки, брюки бирюзовые, низкая посадка</name>
+    <structure>Хлопок</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342778652164.jpg</image>
+      <image>/img/products/images/a35b51811ffbd323aceda3632417ff3b.jpg</image>
+      <image>/img/products/images/42e0943c25e81d2e8c09a4122aa68b47.jpg</image>
+      <image>/img/products/images/17dc7055b2be6530445b1f09ee149b3a.jpg</image>
+      <image>/img/products/images/e82bb5861cd034e42bab74c40d51d5ce.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>Нет в наличии! 0196 Брюки бирюза, бирюзовый, бирюзовые брюки, брюки бирюзовые, короткие зауженные, карманы </name>
+    <structure>коттон и эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/204.jpg</image>
+      <image>/img/products/images/eeb923d08d39ef4b2c25c978e8cef8ab.jpg</image>
+      <image>/img/products/images/3ad49b110cd917cc3c07cb0fd7ddead9.jpg</image>
+      <image>/img/products/images/e3e6a5de92eb5feae40c21dd2b83ba61.jpg</image>
+      <image>/img/products/images/e9c9419c965d33c512656251d0e69a3f.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0235 Брюки красные, прямые, узкие</name>
+    <structure>коттон и эластан  </structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351233846244.jpg</image>
+      <image>/img/products/images/b8bcf3219a3aadaabe1233b2688cc6ad.jpg</image>
+      <image>/img/products/images/4329bda989d68ef2e7f768627e520176.jpg</image>
+      <image>/img/products/images/b4175f47f384c1e8c1f2c88ac170405b.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>3</type_id>
+    <name>0283 Брюки темно-синие, синий, узкие, укороченные</name>
+    <structure>костюмка</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/292.jpg</image>
+      <image>/img/products/images/c316b8a1042990cf56e91fa06ba26dd6.jpg</image>
+      <image>/img/products/images/26d902d63993d9d91baabf16a396a76b.jpg</image>
+      <image>/img/products/images/04f34036112d237f8b134b5ab92f4302.jpg</image>
+      <image>/img/products/images/f6ba030e517adc7ca59c0958a29a43c4.jpg</image>
+      <image>/img/products/images/c714bd67b21bb45b94394f4e5f8b474c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0012 Пиджак красный, красный, золотые пуговицы, карманы, красный пиджак, пуговицы</name>
+    <structure>коттон, эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133914200866.jpg</image>
+      <image>/img/products/images/e42745cd738ec0c8410d02b7583704ca.jpg</image>
+      <image>/img/products/images/115ad829739993b557d6634354429e7e.jpg</image>
+      <image>/img/products/images/aa7909255a607db7c354c9045b379801.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0086 Пиджак черный, золотые пуговицы, пуговицы, черный пиждак, черный</name>
+    <structure>шерсть и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133906032974.jpg</image>
+      <image>/img/products/images/ec98df054cbc218f7b363c0b78e67767.jpg</image>
+      <image>/img/products/images/6478f823acd2cbda906d9f61f4ca8e5b.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0018 Пиджак белый, класический, золотые пуговицы, белый пиджак, белый, класика</name>
+    <structure>коттон, эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/135088873192.jpg</image>
+      <image>/img/products/images/5213f67acbebe6fccad02001af591026.jpg</image>
+      <image>/img/products/images/2202b3668b4e22aac67361775b56bb50.jpg</image>
+      <image>/img/products/images/58920568d362b3b636b6e08edb9c9e31.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0116  Пиджак бежевый, беж, рукав 3/4, бежевый, бежевый пиджак, блейзер</name>
+    <structure>коттон и эластан  </structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341482794113.jpg</image>
+      <image>/img/products/images/d483297324e4aa688271aecded6af582.jpg</image>
+      <image>/img/products/images/3eef78c727fa9709a150373dd9f37765.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0127  Пиджак синий, синий, темно-синий, золотые пуговицы, пуговицы, пуговки, синий пиджак</name>
+    <structure>шерсть и эластан  </structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341488604120.jpg</image>
+      <image>/img/products/images/f7c0f853e203221669cfeccd346eaf96.jpg</image>
+      <image>/img/products/images/a4b9d3b648c333a050678941cdb64ba5.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>Нет в наличии! 0190 Пиджак бирюза, бирюзовый, бирюзовый пиджак, блейзер.</name>
+    <structure>коттон и эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350888273198.jpg</image>
+      <image>/img/products/images/26493d28d7b9683c0f577ab872565a5f.jpg</image>
+      <image>/img/products/images/12fe90ce13b640a695d48915fc2a761b.jpg</image>
+      <image>/img/products/images/47ebda7f9191d2ab596270818b5287dd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0224 Пиджак черный, удлиненный, длинный рукав, золотые пуговицы</name>
+    <structure>коттон и эластан  </structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351230055233.jpg</image>
+      <image>/img/products/images/9f98c719f360544c557d3d05015aa1dc.jpg</image>
+      <image>/img/products/images/833d752ba1421b96cee431fea92bc137.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0227 Пиджак синий, удлиненный, длинный рукав, золотые пуговицы</name>
+    <structure>костюмная ткань</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351230947236.jpg</image>
+      <image>/img/products/images/8d778da5c54cbc4a93a184395f058c96.jpg</image>
+      <image>/img/products/images/3a5ecb46836ab87c59eaac80ab2ca4d2.jpg</image>
+      <image>/img/products/images/9e4b8bb17e80a2bbf0fbd423c1b77692.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0248 Пиджак бордовый, красные пуговки, карманы</name>
+    <structure>велюр</structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/257.jpg</image>
+      <image>/img/products/images/8c6f1a454b941c400dd600361036e85a.jpg</image>
+      <image>/img/products/images/5fd0120147931000f4a892bb86963645.jpg</image>
+      <image>/img/products/images/7b750637a0e9cb86ecffb328c64320d8.jpg</image>
+      <image>/img/products/images/ab849c9e542daf207fc1d3e90c76dd78.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0249 Пиджак коричневый, карманы, велюр</name>
+    <structure>велюр</structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/258.jpg</image>
+      <image>/img/products/images/6355e4f32af92852e260b67d38b3b396.jpg</image>
+      <image>/img/products/images/bf9dac9c02e1564fdec5e3b70401740c.jpg</image>
+      <image>/img/products/images/2c006794534ec2f8054c9cce31c55626.jpg</image>
+      <image>/img/products/images/ad3beeb15550444834fb08f52505d7bd.jpg</image>
+      <image>/img/products/images/514bded4127ebe03d345cf72021b86fd.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0255 Пиджак синий, велюр, карманы</name>
+    <structure>велюр</structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/264.jpg</image>
+      <image>/img/products/images/e571e59b7bd11fb1679a3333fae0d90a.jpg</image>
+      <image>/img/products/images/c8ee9119101350b2ca3c9f70dc5fe901.jpg</image>
+      <image>/img/products/images/7620c04e9dd78b93c5dc65b565be42c9.jpg</image>
+      <image>/img/products/images/ea0e7c289fb5f73206c6b1d738028a06.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0268 Жакет бежевый, длинный рукав, золотые пуговицы</name>
+    <structure>коттон, эластан</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360357593277.jpg</image>
+      <image>/img/products/images/2043b68a248b2e2c5d3c5c4804e241bb.jpg</image>
+      <image>/img/products/images/0d6c01712ff2b65f316ff81fc522bdc8.jpg</image>
+      <image>/img/products/images/70076539e646f57e04fddd118f5056dc.jpg</image>
+      <image>/img/products/images/c420eb00d8f0357606e17e39ac90ed5a.jpg</image>
+      <image>/img/products/images/38e1ce1c4fd840e37321bf092d7bc3ba.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0269 Жакет бежевый, короткий, беж, длинный рукав</name>
+    <structure>коттон и эластан  </structure>
+    <price>799</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1360358174278.jpg</image>
+      <image>/img/products/images/ec2f6a16033e95df4c74312130728a83.jpg</image>
+      <image>/img/products/images/b2b6a11fd51e2c1a2f4e5b71d03d3026.jpg</image>
+      <image>/img/products/images/46b8502dc344169452a9b3262af165ba.jpg</image>
+      <image>/img/products/images/a8c32575029fd375c0d7aab6ca0b6961.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>41</type_id>
+    <name>0280 Жакет черный короткий, золотые пуговицы</name>
+    <structure>костюмка</structure>
+    <price>699</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/289.jpg</image>
+      <image>/img/products/images/829745fba54881c595726a237b95e7a8.jpg</image>
+      <image>/img/products/images/34838e51fa9e287e3db7093e264585bf.jpg</image>
+      <image>/img/products/images/1072ee19b464be1e52dbc57a7817cceb.jpg</image>
+      <image>/img/products/images/28231b1c21027253b9630c36ed6c15f9.jpg</image>
+      <image>/img/products/images/18572000d4770d4420baf1e8c2b222fe.jpg</image>
+      <image>/img/products/images/273585185de03e85cd20943de3245031.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>42</type_id>
+    <name>0164 Майка бирюзовая, бирюза, бирюзовая майка, белая пуговица, на грудь, пуговица</name>
+    <structure>Хлопок</structure>
+    <price>239</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345813005161.jpg</image>
+      <image>/img/products/images/6f82a68007c834a1271252f38f43bd84.jpg</image>
+      <image>/img/products/images/a234e9354244043837ebb7a63abe6301.jpg</image>
+      <image>/img/products/images/a73c4fd0c1c4150147805a3ed1ea054a.jpg</image>
+      <image>/img/products/images/56dcd111b56fa2c88bb28b89ce77b873.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>42</type_id>
+    <name>0167 Корсет, белый корсет, корсет белый, майка, кнопки, рюша, широкие бретели, бретели, бретели широкие</name>
+    <structure>Хлопок</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1341339435165.jpg</image>
+      <image>/img/products/images/1033ad7d8456e79bad468ac7edd2832a.jpg</image>
+      <image>/img/products/images/b865f076752c66934113227b0d22da6a.jpg</image>
+      <image>/img/products/images/ad4f975960b39e58e38109ba3658d59d.jpg</image>
+      <image>/img/products/images/d9d6fc97006d42133464aaec37d53cf3.jpg</image>
+      <image>/img/products/images/7936237ad65997ff99de77f3e6176625.jpg</image>
+      <image>/img/products/images/90984c3b6be00f9b6fb6c3f7d7fa8d30.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>42</type_id>
+    <name>Нет в наличии! 0180 футболка, футболочка, белая футболка, футболка белая, черная надпись, надпись черная</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>199</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1350888500176.jpg</image>
+      <image>/img/products/images/af1fe802f1fb957eb50d43d6ad5156e9.jpg</image>
+      <image>/img/products/images/1c6afe7b75de9f24c7bbeaaf390da146.jpg</image>
+      <image>/img/products/images/f10e6a06d5cffa559ab9beeb114f28bf.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>42</type_id>
+    <name>0184 Блуза белая, белая блуза, в-образный вырез, вырез, рюшечный рукавчик, рюшки, рукавчик, рюши</name>
+    <structure>шифон  </structure>
+    <price>399</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1343035762185.jpg</image>
+      <image>/img/products/images/d5c5fb72e40c24197adf712115c1329c.jpg</image>
+      <image>/img/products/images/8f43ebd4954df4c132775d96035e4e2a.jpg</image>
+      <image>/img/products/images/c317e3a458c2f9020130941d95317320.jpg</image>
+      <image>/img/products/images/2d99f0919dc186326513e34a48abf5e3.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>0115  Шорты короткие, зеленый, с карманами, короткие, зеленые, зеленые шорты, шорты зеленые</name>
+    <structure>коттон и эластан  </structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/112.jpg</image>
+      <image>/img/products/images/acfc140981d688eb24c1b265f121fbc9.jpg</image>
+      <image>/img/products/images/47cbe4733c9a8cc5de0ab9a73c7b6aa8.jpg</image>
+      <image>/img/products/images/4db15ce79f37c5a1cf3d12aaae9bfda7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>0128  Шорты белые, белый, короткие, с карманами, белые шорты, короткие шорты, шорты короткие</name>
+    <structure>коттон и эластан  </structure>
+    <price>299</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342776869122.jpg</image>
+      <image>/img/products/images/3624ed63ea75cec99f360098c7e83905.jpg</image>
+      <image>/img/products/images/241be2ce389df98e6a68ad1663cb390c.jpg</image>
+      <image>/img/products/images/124691c68b5faf9b3f19c3eb0c5078f5.jpg</image>
+      <image>/img/products/images/3f1786f1e0123c483c7148f9b5efe72d.jpg</image>
+      <image>/img/products/images/5018da2ea00f58cb05f88b3fc1a9441c.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>0171 Платье бирюзовое, бирюзовое платье, панталоны, комбинезон, рюша, на грудь, кулиска</name>
+    <structure>Хлопок</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1342777547169.jpg</image>
+      <image>/img/products/images/e0fcfca3a3277d51bc458a6577948234.jpg</image>
+      <image>/img/products/images/10b4ffc8c197b483cd7915d89989e01f.jpg</image>
+      <image>/img/products/images/ea671b7657445d771b1a23a461c209ba.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>0186 Платье белое, белое платье, белый корсет, молния, на грудь, шортики, кармашки</name>
+    <structure>хлопок и эластан</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/191.jpg</image>
+      <image>/img/products/images/231f0a791b800535629959a6d5aab161.jpg</image>
+      <image>/img/products/images/d6685210194369fae765bfb1fc7dcb77.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>0189 Шорты беж, бежевые шорты, шорты бежевые, карманы, короткие.</name>
+    <structure>коттон и эластан</structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/197.jpg</image>
+      <image>/img/products/images/43c79acd8f62a1606fbaae2f7fd77a01.jpg</image>
+      <image>/img/products/images/08b8c142f02d754a0bb75fc92de662d1.jpg</image>
+      <image>/img/products/images/1ffcdbbabb03f318789c0c35cbe7fe0d.jpg</image>
+      <image>/img/products/images/a8827aa947dfb11a59c6fada04e658d7.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>8</type_id>
+    <name>Нет в наличии! 0191 Шорты бирюзовые, бирюзовый, бирюзовые шорты, карманы, короткие</name>
+    <structure>коттон и эластан  </structure>
+    <price>349</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/199.jpg</image>
+      <image>/img/products/images/193084b05ed8d83ef5db0c77fdb720db.jpg</image>
+      <image>/img/products/images/072d9179700d0dd03136378dc0c1d4df.jpg</image>
+      <image>/img/products/images/90cdc95581c5a6d084656a764e58e778.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>43</type_id>
+    <name>0006 Туника оранжевая, оранж, оранжевый, на одно плечо</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>359</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1345615543215.jpg</image>
+      <image>/img/products/images/9395f259b26bce50a5b0e94edc19332b.jpg</image>
+      <image>/img/products/images/a00a6ea387340564bd1579b4c3f49fbf.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>43</type_id>
+    <name>0209 Кофта красная, красный, широкий вырез.</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1357224915218.jpg</image>
+      <image>/img/products/images/623101fc4406f8300c46368268010c51.jpg</image>
+      <image>/img/products/images/d0f55e9ee444d746997b3270bf9b369d.jpg</image>
+      <image>/img/products/images/1a5ea5cf1df831a9148a69d5fb3fa094.jpg</image>
+      <image>/img/products/images/b0a62a9764587fc19e1fda89a9b85a58.jpg</image>
+      <image>/img/products/images/1e4604c8128cec006f299d5e12b16409.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>43</type_id>
+    <name>0210 Кофта в полоску, широкий вырез</name>
+    <structure>двухслойное полотно верхний шар - шерсть, нижний - хлопок</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351172117219.jpg</image>
+      <image>/img/products/images/1865047a15bc3275f2ebdf1e488fccbf.jpg</image>
+      <image>/img/products/images/2f382edfae44d4fabb30fc346672b274.jpg</image>
+      <image>/img/products/images/d3fbdb78f4dab3308744e28768a2a64c.jpg</image>
+      <image>/img/products/images/d8569e8e3380ecf4cfb5b49e3e83dbe8.jpg</image>
+      <image>/img/products/images/37108f27d246f7b6befa64a0d1fba5eb.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>43</type_id>
+    <name>0211 кофта серая, широкий вырез</name>
+    <structure>Хлопок, вискоза</structure>
+    <price>449</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/1351173339220.jpg</image>
+      <image>/img/products/images/d9550bda9380d98bd676d39de6d83761.jpg</image>
+      <image>/img/products/images/df822726289e13558f3a0b6ccad15d07.jpg</image>
+      <image>/img/products/images/2b112f29ef77f0be02662a8d1b2ea056.jpg</image>
+      <image>/img/products/images/a72838c61bd5606026554bc1d914450e.jpg</image>
+      <image>/img/products/images/0e98cd86d7630f0a5137089a8003e359.jpg</image>
+      <image>/img/products/images/73aa366871f8ab8530740f2ab49b5eb8.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>43</type_id>
+    <name>0271 Кофта оливковая, мохер, прозрачная, длинный рукав, зеленый, оливковый</name>
+    <structure>мохер</structure>
+    <price>499</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/280.jpg</image>
+      <image>/img/products/images/b4816d7d3730fa1e62f82bd6c632a99d.jpg</image>
+      <image>/img/products/images/d11d3a18e5e9ce9528bef9ad020050d6.jpg</image>
+      <image>/img/products/images/dd7585c792f8ae9c152d831109e65eaf.jpg</image>
+      <image>/img/products/images/e2e8000fc467ba9fda0e5e607fdb2e25.jpg</image>
+      <image>/img/products/images/d577c782faef743b76985c2ca16b0d42.jpg</image>
+    </images>
+  </item>
+</items>

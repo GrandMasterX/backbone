@@ -1,0 +1,48 @@
+<!--Обязательные теги в описании изделия
+<type_id></type_id>
+<n_id></n_id>
+<code></code>
+<name></name>
+<images main="1"></images>  -->
+
+<!--id типов, которые необходимо указывать в теге <type_id> в соответствии с категорией изделия. -->
+<!--
+4 - Платья
+124 - Блузки
+10 - Юбки
+11 - Куртки,Кожаные куртки  -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<items last_modified="1361285300"><!--дата генерирования xml документа-->
+  <item>
+    <type_id>4</type_id><!--тип изделия (платья, блузки,...)-->
+    <n_id>17</n_id><!--уникальное id изделия из базы данных-->
+    <code>0727</code><!--код изделия (уникальный)-->
+    <name>Платье желтое, яркое, желтый, жолтое, желтое платье, бочонком</name><!--Название изделия-->
+    <structure>коттон и эластан  </structure><!--состав изделия-->
+    <price>899</price><!--цена изделия-->
+    <text></text><!--описание изделия-->
+    <images><!--список изображений-->
+      <image main="1">/img/products/main/134142030161.jpg</image><!--main=1 - обозначение главного фото-->
+      <image>/img/products/images/27e391f11e97518c55129870e5e25c94.jpg</image>
+      <image>/img/products/images/0d0c70215d8e3b56b6d37ed1d5a2613b.jpg</image>
+      <image>/img/products/images/18bb534b4621dad575e6f6f21e3890b3.jpg</image>
+      <image>/img/products/images/9a68e462b4f779288273e3804f597f7c.jpg</image>
+      <image>/img/products/images/85c78098a2ac68bee4e3069f014c9171.jpg</image>
+    </images>
+  </item>
+  <item>
+    <type_id>11</type_id>
+    <name>Куртка, синий, темно-синий, золотые пуговицы, куртка синяя, синяя, синяя куртка, темно-синяя,</name>
+    <structure>Стеганный коттон, синтепон</structure>
+    <price>999</price>
+    <text></text>
+    <images>
+      <image main="1">/img/products/main/133906013467.jpg</image>
+      <image>/img/products/images/b51589dedc258e9047e86b0d1d420c94.jpg</image>
+      <image>/img/products/images/35ddeb98ca17500b33787bcc1470acd2.jpg</image>
+      <image>/img/products/images/9d840a356f9d99adfe3365285cd5f9a7.jpg</image>
+    </images>
+  </item>
+ ...
+</items>

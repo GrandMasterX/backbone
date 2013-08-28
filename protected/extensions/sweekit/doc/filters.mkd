@@ -1,0 +1,37 @@
+## Filters
+
+### SwProtocolFilter
+
+SwProtocolFilter allow automatic switching from HTTP to HTTPS
+
+To force everything in https except the action parse
+
+````php
+    class MyController extends CController {
+        // ...
+        public function filters() {
+            return array(
+                array(
+                    'ext.sweekit.filters.SwProtocolFilter - parse',
+                    'mode' => 'https',
+                ),
+            );
+        }
+    }
+````
+
+To force everything in http except the action parse
+
+````php
+    class MyController extends CController {
+        // ...
+        public function filters() {
+            return array(
+                array(
+                    'ext.sweekit.filters.SwProtocolFilter + parse',
+                    'mode' => 'https',
+                ),
+            );
+        }
+    }
+````

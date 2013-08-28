@@ -1,0 +1,7 @@
+.icon-play-circle{display:none;}
+a:hover{text-decoration:none;}
+.step_1 h2{margin:0;}
+.step_1_link:hover {margin:0;}
+.forma_modal .modal-body{height:500px;}
+.bottom_faces .face_item{padding-bottom:24px;}
+a:focus, input:focus{border:none;outline:none;}
