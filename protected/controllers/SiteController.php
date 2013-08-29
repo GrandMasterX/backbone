@@ -41,6 +41,14 @@ class SiteController extends Controller {
         $this->render('index', array('data' => 'Index page'));
     }
 
+    public function actionService() {
+        $this->render('service', array('data' => 'Index page'));
+    }
+
+    public function actionHowitworks() {
+        $this->render('howitworks', array('data' => 'Index page'));
+    }
+
     public function actionGetSize() {
         $this->render('getSize', array('data' => 'Index page'));
     }

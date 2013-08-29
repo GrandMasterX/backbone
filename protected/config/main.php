@@ -49,6 +49,8 @@ return array(
 			'rules'=>array(
                 'musthave/<id>'=>'musthave/index',
                 'consultant'=>'admin/consultant',
+                'service'=>'site/service',
+                'howitworks'=>'site/howitworks',
                 '<controller>/<action>'=>'<controller>/<action>',
 			),
 		),
