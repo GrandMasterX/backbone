@@ -13,7 +13,11 @@ define([
         menuRegion  : '.header',
         headRegion  : '.head',
         pageRegion  : '.center',
-        footerRegion: '.foots'
+        footerRegion: '.foots',
+        serviceRegion: '.service',
+        howitworksRegion: '.howitworks',
+        partnersRegion: '.partners',
+        contactsRegion: '.contacts'
     });
 
     /* add initializer */

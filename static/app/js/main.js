@@ -74,17 +74,30 @@ require([
     'router',
     'views/footer/footer',
     'views/header/menu',
-    'views/content/content'
-], function (App, Router, FooterPageView,HeaderPageView,ContentPageView) {
+    'views/content/content',
+    'views/service/page',
+    'views/how_it_works/page',
+    'views/partners/page',
+    'views/contacts/page',
+
+], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ServicePageView,HowitworksPageView,PartnersPageView,ContactsPageView) {
 
     App.addInitializer(function() {
         /* render footer page */
         var footerPage = new FooterPageView();
         var headerPage = new HeaderPageView();
         var contentPage = new ContentPageView();
+        var servicePage = new ServicePageView();
+        var howitworksPage = new HowitworksPageView();
+        var partnersPage = new PartnersPageView();
+        var contactsPage = new ContactsPageView();
         App.footerRegion.show(footerPage);
         App.menuRegion.show(headerPage);
         App.pageRegion.show(contentPage);
+        //App.serviceRegion.show(servicePage);
+       // App.howitworksRegion.show(howitworksPage);
+        //App.partnersRegion.show(partnersPage);
+        //App.contactsRegion.show(contactsPage);
     });
 
     /* attach router to the app */
@@ -92,23 +105,6 @@ require([
 
     App.start();
 
-    Backbone.history.start();
-    $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
-        // Get the absolute anchor href.
-        var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };
-        // Get the absolute root.
-        var root = location.protocol + "//" + location.host + App.root;
+    Backbone.history.start({pushState: true, root:'/my_git'});
 
-        // Ensure the root is part of the anchor href, meaning it's relative.
-        if (href.prop.slice(0, root.length) === root) {
-            // Stop the default event to ensure the link will not cause a page
-            // refresh.
-            evt.preventDefault();
-
-            // `Backbone.history.navigate` is sufficient for all Routers and will
-            // trigger the correct events. The Router's internal `navigate` method
-            // calls this anyways.  The fragment is sliced from the root.
-            Backbone.history.navigate(href.attr, true);
-        }
-    });
 });

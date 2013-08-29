@@ -49,6 +49,14 @@ class SiteController extends Controller {
         $this->render('howitworks', array('data' => 'Index page'));
     }
 
+    public function actionPartners() {
+        $this->render('partners', array('data' => 'Index page'));
+    }
+
+    public function actionContacts() {
+        $this->render('contacts', array('data' => 'Index page'));
+    }
+
     public function actionGetSize() {
         $this->render('getSize', array('data' => 'Index page'));
     }

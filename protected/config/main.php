@@ -51,6 +51,8 @@ return array(
                 'consultant'=>'admin/consultant',
                 'service'=>'site/service',
                 'howitworks'=>'site/howitworks',
+                'partners'=>'site/partners',
+                'contacts'=>'site/contacts',
                 '<controller>/<action>'=>'<controller>/<action>',
 			),
 		),

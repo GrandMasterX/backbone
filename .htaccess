@@ -8,14 +8,8 @@ RewriteEngine On
 #RewriteRule . index.php
 #RewriteRule ^/[a-zA-Z0-9]+[/]?$ /index.html [QSA,L]
 
-RewriteEngine On
+
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
-
-
-#RewriteEngine On
-#RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteCond %{REQUEST_FILENAME} !-d
-#RewriteCond %{REQUEST_URI} !index
-#RewriteRule (.*)/index.html [L,QSA]
