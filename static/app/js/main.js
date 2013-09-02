@@ -93,6 +93,12 @@ require([
     App.start();
 
     Backbone.history.start();
+    $('a').click(function(){
+        $('html, body').animate({
+            scrollTop: $( $(this).attr('href') ).offset().top
+        }, 0);
+        return false;
+    });
     $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
         // Get the absolute anchor href.
         var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };

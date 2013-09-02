@@ -22,7 +22,8 @@ define([
          * @see controller.js
          */
         appRoutes:{
-            '.*':'goto_index', // /
+            //'*actions':'goto_index', // /
+            '.*':'goto_index',
             'index':'goto_index', // #/index
             'service':'goto_service', // #/about_service
             'howitworks':'goto_howitworks', // #/how it works

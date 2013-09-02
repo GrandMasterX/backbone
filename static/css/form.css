@@ -3,6 +3,10 @@
 	width: 700px;
 }
 
+.form_page_create {
+    width:100%;
+}
+
 .form fieldset
 {
 	margin-top: 10px;

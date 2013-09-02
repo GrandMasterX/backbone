@@ -9,8 +9,8 @@ $this->breadcrumbs=array(
 <div class="sectionTitle"><?php echo CHtml::encode($this->pageTitle); ?></div>
 
 <?php
-echo CHtml::link(Yii::t('adminUser', 'Создать партнера'), 
-        Yii::app()->controller->createUrl('create'), 
+echo CHtml::link(Yii::t('adminUser', 'Создать партнера'),
+        Yii::app()->controller->createUrl('create'),
         array('class'=>'btn btn-primary btn-wrap')
     );
 

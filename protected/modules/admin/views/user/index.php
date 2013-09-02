@@ -14,7 +14,7 @@ echo CHtml::link(Yii::t('adminUser', 'Создать пользователя'),
         array('class'=>'btn btn-primary btn-wrap')
     );
 
-    $this->renderPartial('_grid',array(
+$this->renderPartial('_grid',array(
 	'dataProvider'=>$dataProvider,
 	'search'=>$search,
 ));
