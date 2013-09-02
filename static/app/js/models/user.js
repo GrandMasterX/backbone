@@ -12,7 +12,7 @@ define([
 
 		var UserModel = Backbone.Model.extend({
 
-			urlRoot: 'api/user'
+			urlRoot: 'api/main'
 		});
 
 		return UserModel;
