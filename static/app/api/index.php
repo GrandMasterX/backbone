@@ -18,10 +18,10 @@ function getMain() {
 	try {
 		$db = getConnection();
 		$stmt = $db->query($sql);  
-		$wines = $stmt->fetchAll(PDO::FETCH_OBJ);
+		$menu = $stmt->fetchAll(PDO::FETCH_OBJ);
 		$db = null;
 		// echo '{"wine": ' . json_encode($wines) . '}';
-		echo json_encode($wines);
+		echo json_encode($menu);
 	} catch(PDOException $e) {
 		echo '{"error":{"text":'. $e->getMessage() .'}}'; 
 	}

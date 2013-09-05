@@ -3,7 +3,7 @@ class Pages extends CActiveRecord {
 
     public  $_id;
     public  $name;
-    public  $visible;
+    public  $is_blocked;
     public  $info;
     public  $weight;
 
@@ -38,7 +38,7 @@ class Pages extends CActiveRecord {
         );
     }
 
-    public function getPages() {
+    public static function getPages() {
         return self::model()->findAll();
     }
 
@@ -59,8 +59,8 @@ class Pages extends CActiveRecord {
         return $this->name;
     }
 
-    public function getVisible() {
-        return $this->visible;
+    public function getIsBlocked() {
+        return $this->is_blocked;
     }
 
     public function getInfo() {

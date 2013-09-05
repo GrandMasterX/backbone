@@ -13,7 +13,8 @@ define([
         menuRegion  : '.header',
         headRegion  : '.head',
         pageRegion  : '.center',
-        footerRegion: '.foots'
+        footerRegion: '.foots',
+        modalRegion : '.modal_template'
     });
 
     /* add initializer */

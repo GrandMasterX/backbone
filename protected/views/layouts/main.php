@@ -24,6 +24,7 @@
         <?php echo $content; ?>
       </div>
     </div>
+   <?php $this->renderPartial('/site/modal');?>
    <?php $this->renderPartial('//layouts/gAnalytics');?>
   </body>
 </html>

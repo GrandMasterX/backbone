@@ -29,7 +29,6 @@ define([
             require(['views/content/content'], function(IndexPage){
                 var indexPage = new IndexPage();
                 App.pageRegion.show(indexPage);
-                this.headerView.selectMenuItem('home-menu');
             })
 
         },

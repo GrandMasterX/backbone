@@ -74,17 +74,20 @@ require([
     'router',
     'views/footer/footer',
     'views/header/menu',
-    'views/content/content'
-], function (App, Router, FooterPageView,HeaderPageView,ContentPageView) {
+    'views/content/content',
+    'views/modal/modal'
+], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ModalPageView) {
 
     App.addInitializer(function() {
         /* render footer page */
         var footerPage = new FooterPageView();
         var headerPage = new HeaderPageView();
         var contentPage = new ContentPageView();
+        var modalPage = new ModalPageView();
         App.footerRegion.show(footerPage);
         App.menuRegion.show(headerPage);
         App.pageRegion.show(contentPage);
+        App.modalRegion.show(modalPage);
     });
 
     /* attach router to the app */
@@ -93,12 +96,14 @@ require([
     App.start();
 
     Backbone.history.start();
-    $('a').click(function(){
+    /*$('a').click(function(){
+        console.log($(this).attr('href'));
         $('html, body').animate({
+
             scrollTop: $( $(this).attr('href') ).offset().top
         }, 0);
         return false;
-    });
+    });*/
     $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
         // Get the absolute anchor href.
         var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };

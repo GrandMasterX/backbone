@@ -1,55 +1,51 @@
-window.Main = Backbone.Model.extend({
+/**
+ * LoginModel object
+ *
+ * Model containing the interactive data as well as a large part of the logic
+ * surrounding it: conversions, validations, computed properties,
+ * and access control of LoginModel.
+ *
+ * Here is where we need to setup logic with database
+ *
+ */
+define([
+    'backbone'
+], function(Backbone) {
 
-    urlRoot: "api/main",
+    return Backbone.Model.extend({
 
-    initialize: function () {
-        this.validators = {};
+        defaults:{
+            name: null,
+            email: null
+        },
 
-        this.validators.name = function (value) {
-            return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a name"};
-        };
-
-        /*this.validators.grapes = function (value) {
-            return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a grape variety"};
-        };
-
-        this.validators.country = function (value) {
-            return value.length > 0 ? {isValid: true} : {isValid: false, message: "You must enter a country"};
-        };*/
-    },
-
-    validateItem: function (key) {
-        return (this.validators[key]) ? this.validators[key](this.get(key)) : {isValid: true};
-    },
-
-    // TODO: Implement Backbone's standard validate() method instead.
-    validateAll: function () {
-
-        var messages = {};
-
-        for (var key in this.validators) {
-            if(this.validators.hasOwnProperty(key)) {
-                var check = this.validators[key](this.get(key));
-                if (check.isValid === false) {
-                    messages[key] = check.message;
-                }
+        /**
+         * validation object
+         * @see backbone.validation.js
+         */
+        validation: {
+            name: {
+                required: true,
+                msg: 'name is required'
+            },
+            company: {
+                required: true,
+                msg: 'company is required'
+            },
+            site: {
+                required: true,
+                msg: 'site is required'
+            },
+            mail: {
+                required: true,
+                msg: 'mail is required'
+            },
+            shop: {
+                required: true,
+                msg: 'shop is required'
             }
         }
-
-        return _.size(messages) > 0 ? {isValid: false, messages: messages} : {isValid: true};
-    },
-
-    defaults: {
-        id: null,
-        name: "",
-        weight: ""
-    }
-});
-
-window.HeadCollection = Backbone.Collection.extend({
-
-    model: Head,
-
-    url: "api/header"
+    });
 
 });
+

@@ -1,7 +1,6 @@
 <div class="header"></div>
 <div class="center"></div>
 <div class="foots"></div>
-
 <!-- /.container -->
 <div id="logger"></div>
 <!-- /.logger -->

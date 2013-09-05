@@ -7,16 +7,16 @@
  */
 define([
     'backboneMarionette',
-    'text!templates/header/menu.html',
-    'models/menu',
+    'text!templates/modal/page.html',
+    'models/send_modal',
     'backboneBUI'
-], function (Marionette, HeaderTemplate, MenuModel, App) {
-
+], function (Marionette, ModalTemplate, SendModel, App) {
     return Marionette.ItemView.extend({
-        template: HeaderTemplate,
+
+        template: ModalTemplate,
 
         events:{
-            'click a' : 'main'
+            'click .send_modal' : 'send'
         },
 
         initialize:function () {
@@ -25,7 +25,7 @@ define([
 
             // setup global events
             //App.vent.on('site:logout', this.logout, this);
-            this.model = new MenuModel();
+            this.model = new SendModel();
             //console.log(this.model);
             this.model.on('error', this.error);
             this.model.on('success', this.success);
@@ -36,14 +36,20 @@ define([
 
         },
 
-        main: function(e, response) {
-            this.model.url = 'http://localhost/my_git/site/Getmenu';
-            this.model.save('data');
-
+        send:function(e) {
+            //e.preventDefault();
+            this.model.url = 'http://localhost/my_git/site/modal';
+            this.model.save({
+                name:this.$('input[name=name]').val(),
+                company:this.$('input[name=company]').val(),
+                url:this.$('input[name=link]').val(),
+                phone:this.$('input[name=phone]').val(),
+                email:this.$('input[name=mail]').val(),
+                text:this.$('textarea').val()
+            });
         },
 
         error:function (model, response) {
-            console.log(response.responseText);
             if(response.status ==200)
                 var type = Backbone.BUI.Config.Alert.SUCCESS;
             else
@@ -53,12 +59,11 @@ define([
                     ctype: type,
                     title:'Here we go!',
                     message:response.responseText,
-                    renderTo:$('.menu'), /* change to whatever */
+                    renderTo:$('.modal_slogan'), /* change to whatever */
                     timeout:3000
                 });
                 alertError.render();
             }
         },
-
     });
 });
