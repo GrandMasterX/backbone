@@ -1,7 +1,6 @@
 <?php
 class Pages extends CActiveRecord {
 
-    public  $_id;
     public  $name;
     public  $is_blocked;
     public  $info;
@@ -39,7 +38,9 @@ class Pages extends CActiveRecord {
     }
 
     public static function getPages() {
-        return self::model()->findAll();
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM pages';
+        return $connection->createCommand($sql)->queryAll();
     }
 
     public function rules() {
@@ -49,10 +50,6 @@ class Pages extends CActiveRecord {
             array('name,info,weight', 'safe', 'on' => 'search,insert,update'),
         );
         //$charset = Yii::app()->charset;
-    }
-
-    public function getId() {
-        return $this->_id;
     }
 
     public function getName() {

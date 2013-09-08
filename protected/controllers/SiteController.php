@@ -235,9 +235,7 @@ class SiteController extends Controller {
     }
 
     public function actionGetmenu() {
-        $models = Pages::getPages();
-        echo CJavaScript::jsonEncode($models);
-        $this->sendResponse(200, CJavaScript::jsonEncode($models));
+        echo json_encode(Pages::getPages());
     }
 
     public function actionLogin() {

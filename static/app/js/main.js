@@ -75,8 +75,9 @@ require([
     'views/footer/footer',
     'views/header/menu',
     'views/content/content',
-    'views/modal/modal'
-], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ModalPageView) {
+    'views/modal/modal',
+    'views/header/menu-list'
+], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ModalPageView,MenulistPageView) {
 
     App.addInitializer(function() {
         /* render footer page */
@@ -84,10 +85,12 @@ require([
         var headerPage = new HeaderPageView();
         var contentPage = new ContentPageView();
         var modalPage = new ModalPageView();
+        //var menulistPage = new MenulistPageView();
         App.footerRegion.show(footerPage);
         App.menuRegion.show(headerPage);
         App.pageRegion.show(contentPage);
         App.modalRegion.show(modalPage);
+        //App.menuListRegion.show(menulistPage);
     });
 
     /* attach router to the app */
@@ -104,6 +107,17 @@ require([
         }, 0);
         return false;
     });*/
+    var bg_image = $('.menu').find('li:eq(0)');
+    $('.main_page_bg').animate({opacity: 1},3000);
+    $('.menu a').click(function(e){
+        if(e.target !== bg_image.find('a')[0]) {
+            if($('.wrapper ').hasClass('main_page_bg'))
+                $('.wrapper ').removeClass('main_page_bg');
+        } else {
+            if(!$('.wrapper ').hasClass('main_page_bg'))
+                $('.wrapper ').addClass('main_page_bg');
+        }
+    })
     $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
         // Get the absolute anchor href.
         var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };

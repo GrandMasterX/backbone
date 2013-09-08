@@ -18,12 +18,14 @@
   </head>
   <body>
     <!-- Part 1: Wrap all page content here -->
-    <div class="wrapper main_page_bg" id="wrapper_hide">
+    <div class="main_page_bg" style="position: absolute;"></div>
+    <div class="wrapper" id="wrapper_hide">
       <!-- Begin page content -->
       <div class="allin">
         <?php echo $content; ?>
       </div>
     </div>
+    <div class="modal" style="display: none;"></div>
    <?php $this->renderPartial('/site/modal');?>
    <?php $this->renderPartial('//layouts/gAnalytics');?>
   </body>

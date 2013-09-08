@@ -6,3 +6,4 @@
 <!-- /.logger -->
 <script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
     src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>

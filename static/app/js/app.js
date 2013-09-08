@@ -14,7 +14,8 @@ define([
         headRegion  : '.head',
         pageRegion  : '.center',
         footerRegion: '.foots',
-        modalRegion : '.modal_template'
+        modalRegion : '.modal',
+        menuListRegion: '.menu'
     });
 
     /* add initializer */

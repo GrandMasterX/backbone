@@ -33,7 +33,6 @@ define([
 
             // paths not found
             '*path':'goto_notFound'
-
         }
     });
 
