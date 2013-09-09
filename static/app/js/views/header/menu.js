@@ -55,9 +55,9 @@ define([
                             console.log(that.menuList);
                             console.log(that.menuList.models[0].attributes);
                             console.log(that.menuList.models[1].attributes);
-                            $('.allin').html(new MenulistItemView({model:that.menuList}).render());
+                            /*$('.allin').html(new MenulistItemView({model:that.menuList}).render());
                             if (callback)
-                                callback();
+                                callback();*/
                         }
                     }
                 );

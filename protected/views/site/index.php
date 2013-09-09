@@ -1,3 +1,7 @@
+<div id="menulist"></div>
+<script type="text/template" id="menu-list-item">
+    <li><a href='#wines/<%= id %>'><%= name %></a></li>
+</script>
 <div class="header"></div>
 <div class="center"></div>
 <div class="foots"></div>

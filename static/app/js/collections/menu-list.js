@@ -18,10 +18,6 @@ define([
         url: 'http://localhost/my_git/site/Getmenu',
 
         model:MenulistModel,
-
-        /*parse: function(response) {
-            return response;
-        }*/
     });
 
     return MenulistCollection;
