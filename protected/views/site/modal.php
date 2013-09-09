@@ -1,0 +1,1 @@
+<div class="modal_template" style='display: none;'></div>
