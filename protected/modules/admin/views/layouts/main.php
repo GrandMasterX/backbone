@@ -58,8 +58,15 @@
                     </ul>
                   </li>
                   
-                  <li class="<?php if (Helper::getRoutePartsForModuleAndController() == 'mailingList/email'): ?> active <?php endif ?>"><a href="<?php echo Yii::app()->controller->createUrl('/mailingList/email/index')?>"><?php echo Yii::t('menu', 'Рассылки') ?></a></li>                   
-                  
+                <li class="<?php if (Helper::getRoutePartsForModuleAndController() == 'mailingList/email'): ?> active <?php endif ?>"><a href="<?php echo Yii::app()->controller->createUrl('/mailingList/email/index')?>"><?php echo Yii::t('menu', 'Рассылки') ?></a></li>
+
+                <li class="dropdown <?php if (Helper::getRoutePartsForModuleAndController() == 'admin/pages'): ?> active <?php endif ?>">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><?php echo Yii::t('pages', 'Страницы'); ?><b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="<?php echo Yii::app()->controller->createUrl('/admin/pages/index')?>"><?php echo Yii::t('pages', 'Настройка страниц'); ?></a></li>
+                        <li><a href="<?php echo Yii::app()->controller->createUrl('/admin/page/index')?>"><?php echo Yii::t('pages', 'Контент страниц'); ?></a></li>
+                    </ul>
+                </li>
                 </ul>
                 <ul class="nav pull-right">
                   <?php echo CHtml::beginForm('', '', array('class'=>'nav')); ?>

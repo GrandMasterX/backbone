@@ -13,7 +13,7 @@ class SiteController extends Controller {
         return array(
             array('allow',
                 'roles' => array('client','superadmin','admin'),
-                'actions' => array('myData'),
+                'actions' => array('myData','modal'),
             ),
             array('deny',
                 'roles' => array('guest'),
@@ -39,22 +39,6 @@ class SiteController extends Controller {
 
     public function actionIndex() {
         $this->render('index', array('data' => 'Index page'));
-    }
-
-    public function actionService() {
-        $this->render('service', array('data' => 'Index page'));
-    }
-
-    public function actionHowitworks() {
-        $this->render('howitworks', array('data' => 'Index page'));
-    }
-
-    public function actionPartners() {
-        $this->render('partners', array('data' => 'Index page'));
-    }
-
-    public function actionContacts() {
-        $this->render('contacts', array('data' => 'Index page'));
     }
 
     public function actionGetSize() {
@@ -234,9 +218,26 @@ class SiteController extends Controller {
                 $this->render('error', $error);
         }
     }
-    public static function Logging() {
-//        $this->actionLogin();
+
+    public function actionModal() {
+        $data = $this->getInputAsJson();
+        $model = new Joinus();
+        if(empty($data['name']) || empty($data['email']))
+        {
+            $this->sendResponse(401, 'There was an error while sending data');
+        } else {
+            $model->attributes = $data;
+            if($model->validate()) {
+                $model->save();
+                $this->sendResponse(200, 'Email was sended successfull');
+            }
+        }
     }
+
+    public function actionGetmenu() {
+        echo json_encode(Pages::getPages());
+    }
+
     public function actionLogin() {
         $this->layout = '//layouts/main-temp';
         $model = new User('login');

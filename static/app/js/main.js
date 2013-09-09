@@ -75,29 +75,22 @@ require([
     'views/footer/footer',
     'views/header/menu',
     'views/content/content',
-    'views/service/page',
-    'views/how_it_works/page',
-    'views/partners/page',
-    'views/contacts/page',
-
-], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ServicePageView,HowitworksPageView,PartnersPageView,ContactsPageView) {
+    'views/modal/modal',
+    'views/header/menu-list'
+], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ModalPageView,MenulistPageView) {
 
     App.addInitializer(function() {
         /* render footer page */
         var footerPage = new FooterPageView();
         var headerPage = new HeaderPageView();
         var contentPage = new ContentPageView();
-        var servicePage = new ServicePageView();
-        var howitworksPage = new HowitworksPageView();
-        var partnersPage = new PartnersPageView();
-        var contactsPage = new ContactsPageView();
+        var modalPage = new ModalPageView();
+        //var menulistPage = new MenulistPageView();
         App.footerRegion.show(footerPage);
         App.menuRegion.show(headerPage);
         App.pageRegion.show(contentPage);
-        //App.serviceRegion.show(servicePage);
-       // App.howitworksRegion.show(howitworksPage);
-        //App.partnersRegion.show(partnersPage);
-        //App.contactsRegion.show(contactsPage);
+        App.modalRegion.show(modalPage);
+        //App.menuListRegion.show(menulistPage);
     });
 
     /* attach router to the app */
@@ -105,6 +98,42 @@ require([
 
     App.start();
 
-    Backbone.history.start({pushState: true, root:'/my_git'});
+    Backbone.history.start();
+    /*$('a').click(function(){
+        console.log($(this).attr('href'));
+        $('html, body').animate({
 
+            scrollTop: $( $(this).attr('href') ).offset().top
+        }, 0);
+        return false;
+    });*/
+    var bg_image = $('.menu').find('li:eq(0)');
+    $('.main_page_bg').animate({opacity: 1},3000);
+    $('.menu a').click(function(e){
+        if(e.target !== bg_image.find('a')[0]) {
+            if($('.wrapper ').hasClass('main_page_bg'))
+                $('.wrapper ').removeClass('main_page_bg');
+        } else {
+            if(!$('.wrapper ').hasClass('main_page_bg'))
+                $('.wrapper ').addClass('main_page_bg');
+        }
+    })
+    $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
+        // Get the absolute anchor href.
+        var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };
+        // Get the absolute root.
+        var root = location.protocol + "//" + location.host + App.root;
+
+        // Ensure the root is part of the anchor href, meaning it's relative.
+        if (href.prop.slice(0, root.length) === root) {
+            // Stop the default event to ensure the link will not cause a page
+            // refresh.
+            evt.preventDefault();
+
+            // `Backbone.history.navigate` is sufficient for all Routers and will
+            // trigger the correct events. The Router's internal `navigate` method
+            // calls this anyways.  The fragment is sliced from the root.
+            Backbone.history.navigate(href.attr, true);
+        }
+    });
 });

@@ -9,10 +9,8 @@ rem -------------------------------------------------------------
 
 set BIN_PATH=%~dp0
 
-if "%PHP_COMMAND%" == "" set PHP_COMMAND=php.exe
+if "%PHP_COMMAND%" == "" set PHP_COMMAND=C:\wamp\bin\php\php5.3.13\php.exe
 
-rem "%PHP_COMMAND%" "%BIN_PATH%yiic.php" %*
-c:\wamp\bin\php\php5.3.13\php.exe "c:\wamp\www\astrafit\protected\yiic.php" %*
-
+"%PHP_COMMAND%" "%BIN_PATH%yiic.php" %*
 
 @endlocal

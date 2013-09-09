@@ -14,10 +14,8 @@ define([
         headRegion  : '.head',
         pageRegion  : '.center',
         footerRegion: '.foots',
-        serviceRegion: '.service',
-        howitworksRegion: '.howitworks',
-        partnersRegion: '.partners',
-        contactsRegion: '.contacts'
+        modalRegion : '.modal',
+        menuListRegion: '.menu'
     });
 
     /* add initializer */

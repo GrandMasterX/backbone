@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-
     <?php
         $app=Yii::app();
         $baseUrl=$app->baseUrl;
@@ -16,23 +15,18 @@
       <script src="<?php echo $baseUrl?>.'/static/bootstrap/front/js/html5shiv.js"></script>
       <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/ie.css" />
     <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="<?php echo $baseUrl?>/static/img/favicon.ico">
   </head>
   <body>
     <!-- Part 1: Wrap all page content here -->
-    <div class="wrapper main_page_bg" id="wrapper_hide">
+    <div class="main_page_bg" style="position: absolute;"></div>
+    <div class="wrapper" id="wrapper_hide">
       <!-- Begin page content -->
       <div class="allin">
         <?php echo $content; ?>
       </div>
     </div>
-   <?php $this->renderPartial('//layouts/reformal');?>
+    <div class="modal" style="display: none;"></div>
+   <?php $this->renderPartial('/site/modal');?>
    <?php $this->renderPartial('//layouts/gAnalytics');?>
   </body>
 </html>
@@ -42,10 +36,6 @@ $app->clientScript
     ->registerCoreScript('jquery')
     ->registerCssFile($baseUrl.'/static/bootstrap/front/css/bootstrap.min.css')
     ->registerCssFile($baseUrl.'/static/css/base.css');
-    //->registerScriptFile($baseUrl.'static/js/jquery.min.js')
-    //->registerScriptFile($baseUrl.'static/js/bootstrap.min.js');
-    //->registerScriptFile($baseUrl.'/static/app/js/libs/require/require.js')
-    //->registerScriptFile($baseUrl.'/static/app/js/main.js');
 ?>
 
 

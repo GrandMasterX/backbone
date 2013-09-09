@@ -15,13 +15,9 @@ return array(
         'application.extensions.sweekit.Sweeml',
         'application.extensions.MobileDetect.Mobile_Detect',
         'application.extensions.calc.eqEOS',
-        'ext.eoauth.*',
-        'ext.eoauth.lib.*',
-        'ext.lightopenid.*',
-        'ext.eauth.*',
-        'ext.eauth.services.*',
         'application.vendors',
         'ext.yii-mail.YiiMailMessage',
+        'ext.imperavi-redactor-widget.ImperaviRedactorWidget',
     ),
     'modules' => array(
         'gii' => array(
@@ -35,9 +31,6 @@ return array(
         'admin' => array(
             'defaultController' =>'user',
         ),
-        'exel' => array(
-            'defaultController' =>'index',
-        ),
         'mailingList'=>array(
             'defaultController'=>'email',
         ),
@@ -49,10 +42,6 @@ return array(
 			'rules'=>array(
                 'musthave/<id>'=>'musthave/index',
                 'consultant'=>'admin/consultant',
-                'service'=>'site/service',
-                'howitworks'=>'site/howitworks',
-                'partners'=>'site/partners',
-                'contacts'=>'site/contacts',
                 '<controller>/<action>'=>'<controller>/<action>',
 			),
 		),
@@ -72,12 +61,12 @@ return array(
         ),
         //'session' => array(
         //'timeout' => 86400,
-        //),        
+        //),
         'request' => array(
             'class' => 'HttpRequest',
             'enableCsrfValidation' => true,
             'enableCookieValidation' => true,
-            'noCsrfValidationRoutes' => array('admin/item', 'register/SaveComment'),    ///, 'logg/History'
+            'noCsrfValidationRoutes' => array('admin/item', 'register/SaveComment','site/modal','site/Getmenu'),    ///, 'logg/History'
         ),
         'languageManager' => array(
             'class' => 'DbLanguageManager',
@@ -162,9 +151,6 @@ return array(
             'class' => 'ext.image.ImageComponent',
             'driver' => 'Gd',
         ),
-        'loid' => array(
-            'class' => 'ext.lightopenid.loid',
-        ),
         'mail' => array(
              'class' => 'ext.yii-mail.YiiMail',
              'transportType' => 'php',
@@ -172,94 +158,6 @@ return array(
              'logging' => false,
              'dryRun' => false
          ),
-        'eauth' => array(
-            'class' => 'ext.eauth.EAuth',
-            'popup' => true, // Use the popup window instead of redirecting.
-            'cache' => false, // Cache component name or false to disable cache. Defaults to 'cache'.  
-            'cacheExpire' => 0, // Cache lifetime. Defaults to 0 - means unlimited.
-            'services' => array(// You can change the providers and their classes.
-//                'google' => array(
-//                    'class' => 'GoogleOpenIDService',
-//                ),
-//                'yandex' => array(
-//                    'class' => 'YandexOpenIDService',
-//                ),
-//                'twitter' => array(
-                // register your app here: https://dev.twitter.com/apps/new
-//                    'class' => 'TwitterOAuthService',
-//                    'key' => '...',
-//                    'secret' => '...',
-//                ),
-                'google_oauth' => array(
-                    // register your app here: https://code.google.com/apis/console/
-                    'class' => 'CustomGoogleService',
-                    'client_id' => '121482514649-7orl2mum6mco54pe33rvl743j9bp2353.apps.googleusercontent.com',
-                    'client_secret' => 's19p91oTKTLJvvMKGVEi_kebs',
-                    'title' => 'Google (OAuth)',
-                ),
-//                'yandex_oauth' => array(
-                // register your app here: https://oauth.yandex.ru/client/my
-//                    'class' => 'YandexOAuthService',
-//                    'client_id' => '...',
-//                    'client_secret' => '...',
-//                    'title' => 'Yandex (OAuth)',
-//                ),
-                'facebook' => array(
-                    // register your app here: https://developers.facebook.com/apps/
-                    'class' => 'CustomFacebookService',
-                    'client_id' => '689556884392541',
-                    'client_secret' => '5af00ac919412ac2dcaa416e29adeec3',
-                ),
-//                'linkedin' => array(
-                // register your app here: https://www.linkedin.com/secure/developer
-//                    'class' => 'LinkedinOAuthService',
-//                    'key' => '...',
-//                    'secret' => '...',
-//                ),
-//                'github' => array(
-                // register your app here: https://github.com/settings/applications
-//                    'class' => 'GitHubOAuthService',
-//                    'client_id' => '...',
-//                    'client_secret' => '...',
-//                ),
-//                'live' => array(
-                // register your app here: https://manage.dev.live.com/Applications/Index
-//                    'class' => 'LiveOAuthService',
-//                    'client_id' => '...',
-//                    'client_secret' => '...',
-//                ),
-                'vkontakte' => array(
-                    // register your app here: https://vk.com/editapp?act=create&site=1
-                    'class' => 'CustomVKontakteService',
-                    'client_id' => '3792586',
-                    'client_secret' => 'VY2T0rp0SMkHtyRmrTSJ',
-                ),
-//                'mailru' => array(
-            // register your app here: http://api.mail.ru/sites/my/add
-//                    'class' => 'MailruOAuthService',
-//                    'client_id' => '...',
-//                    'client_secret' => '...',
-//                ),
-//                'moikrug' => array(
-            // register your app here: https://oauth.yandex.ru/client/my
-//                    'class' => 'MoikrugOAuthService',
-//                    'client_id' => '...',
-//                    'client_secret' => '...',
-//                ),
-//                'odnoklassniki' => array(
-            // register your app here: http://dev.odnoklassniki.ru/wiki/pages/viewpage.action?pageId=13992188
-            // ... or here: http://www.odnoklassniki.ru/dk?st.cmd=appsInfoMyDevList&st._aid=Apps_Info_MyDev
-//                    'class' => 'OdnoklassnikiOAuthService',
-//                    'client_id' => '...',
-//                    'client_public' => '...',
-//                    'client_secret' => '...',
-//                    'title' => 'Odnokl.',
-//                ),
-            ),
-        ),
-        'excel'=>array(
-            'class'=>'application.extensions.PHPExcel',
-        ),
     ),
     'params' => array(
         'adminEmail' => 'dobrynina@astrafit.com',
