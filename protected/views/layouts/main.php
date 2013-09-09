@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en" class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths">
   <head>
+    <?php
+      $app=Yii::app();
+      $baseUrl=$app->baseUrl;
+    ?>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title><?php echo Yii::t('index', 'AstraFit'); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <?php
-        $app=Yii::app();
-        $baseUrl=$app->baseUrl;
-    ?>
+    <script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
+              src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
+    <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="<?php echo $baseUrl?>.'/static/bootstrap/front/js/html5shiv.js"></script>

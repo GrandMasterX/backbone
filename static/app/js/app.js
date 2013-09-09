@@ -10,7 +10,7 @@ define([
 
     /* add regions -please see your views/layouts and views/site/index view file */
     app.addRegions({
-        menuRegion  : '.header',
+        menuRegion  : '#menuList',
         headRegion  : '.head',
         pageRegion  : '.center',
         footerRegion: '.foots',

@@ -76,8 +76,7 @@ require([
     'views/header/menu',
     'views/content/content',
     'views/modal/modal',
-    'views/header/menu-list'
-], function (App, Router, FooterPageView,HeaderPageView,ContentPageView,ModalPageView,MenulistPageView) {
+], function (App, Router, FooterPageView, HeaderPageView, ContentPageView, ModalPageView) {
 
     App.addInitializer(function() {
         /* render footer page */
@@ -85,12 +84,10 @@ require([
         var headerPage = new HeaderPageView();
         var contentPage = new ContentPageView();
         var modalPage = new ModalPageView();
-        //var menulistPage = new MenulistPageView();
         App.footerRegion.show(footerPage);
         App.menuRegion.show(headerPage);
         App.pageRegion.show(contentPage);
         App.modalRegion.show(modalPage);
-        //App.menuListRegion.show(menulistPage);
     });
 
     /* attach router to the app */

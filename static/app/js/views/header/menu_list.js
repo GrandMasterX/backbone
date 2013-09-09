@@ -8,31 +8,30 @@
 define([
     'backboneMarionette',
     'backboneBUI',
-    'text!templates/header/menu-list',
     'models/menu-list',
     'jquery',
     'underscore',
     'backbone',
-    'views/header/menu-list-item-view'
-], function (Marionette,App, MenulistView,MenulistModel,$, _, Backbone,MenuListItemViews) {
+], function (Marionette,App, MenuListModel,$, _, Backbone) {
 
-    var MenilistView = Marionette.ItemView.extend({
-        el: $('#menulist'),
-        model: MenulistModel,
-        template: MenuListItemViews,
+    var MenuListView = Backbone.View.extend({
+        el: $('#menuList'),
+        template: _.template($('#menu-list-item').html()),
 
         initialize: function() {
             this.model.bind("reset", this.render, this);
         },
         render: function(eventName) {
-            _.each(this.model.models, function(wine) {
-                $(this.el).append(new this.template({model: wine}).render().el);
+            _.each(this.model.models, function(menu){
+                var menuTemplate = this.template(menu.toJSON());
+                $(this.el).append(menuTemplate);
             }, this);
+
             return this;
         }
 
     });
 
-    return MenilistView;
+    return MenuListView;
 
 });

@@ -1,15 +1,25 @@
-<div >
-    <ul id="menulist"></ul>
-</div>
 <script type="text/template" id="menu-list-item">
-    <li><a href='#wines/<%= id %>'><%= name %></a></li>
+    <li id="<%= id %>"><a href='#/<%= url %>'><%= name %></a></li>
 </script>
-<div class="header"></div>
+<div class="header">
+    <div><div class="logo"><a href="#"><img src="static/img/logo.png"></a></div>
+    <div class="menu">
+        <ul id="menuList">
+
+        </ul>
+    </div>
+    <div class="language_selector">
+        <a href="#">ru</a>
+        <div class="grey_line"></div>
+        <a href="#" class="l_r_border">eng</a>
+        <div class="grey_line"></div>
+        <a href="#">ukr</a>
+    </div>
+    <div style="clear:both;"></div>
+    <div class="magic_button"></div></div>
+</div>
 <div class="center"></div>
 <div class="foots"></div>
 <!-- /.container -->
 <div id="logger"></div>
 <!-- /.logger -->
-<script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
-    src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
-<script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>

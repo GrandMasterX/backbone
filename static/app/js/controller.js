@@ -9,8 +9,7 @@ define([
     'app',
     'session',
     'collections/menu-list',
-    'views/header/menu-list-view',
-], function(Marionette, Http, App,MenulistCollection,menuListView) {
+], function(Marionette, Http, App,MenulistCollection) {
     'use strict';
 
     return {
@@ -31,11 +30,6 @@ define([
             require(['views/content/content'], function(IndexPage){
                 var indexPage = new IndexPage();
                 App.pageRegion.show(indexPage);
-                console.log('list');
-                console.log(MenulistCollection);
-                this.menuList = MenulistCollection;
-                this.menuListView = new menuListView({model: this.menuList});
-                this.menuList.fetch();
             })
 
         },
