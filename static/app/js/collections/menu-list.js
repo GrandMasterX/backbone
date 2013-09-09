@@ -15,7 +15,7 @@ define([
 
     var MenulistCollection = Backbone.Collection.extend({
 
-        url: 'http://localhost/my_git/site/Getmenu',
+        url: 'site/Getmenu',
 
         model:MenulistModel,
     });

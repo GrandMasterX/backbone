@@ -31,7 +31,7 @@ define([
 
         send:function(e) {
             //e.preventDefault();
-            this.model.url = 'http://localhost/my_git/site/modal';
+            this.model.url = 'site/modal';
             this.model.set({
                 name:this.$('input[name=name]').val(),
                 company:this.$('input[name=company]').val(),

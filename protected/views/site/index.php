@@ -1,4 +1,6 @@
-<div id="menulist"></div>
+<div >
+    <ul id="menulist"></ul>
+</div>
 <script type="text/template" id="menu-list-item">
     <li><a href='#wines/<%= id %>'><%= name %></a></li>
 </script>

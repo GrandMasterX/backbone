@@ -11,8 +11,7 @@ define([
     'backbone',
 ], function ($, _, Backbone) {
 
-    var MenulistModel = Backbone.Model.extend({
-    });
+    var MenulistModel = Backbone.Model.extend();
 
     return MenulistModel;
 });

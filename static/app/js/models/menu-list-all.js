@@ -15,7 +15,7 @@ define([
     var MenulistAllModel = Backbone.Model.extend({
 
         model: MenuListModel,
-        url: 'http://localhost/my_git/site/Getmenu',
+        url: 'site/Getmenu',
 
         constructor: function() {
             this.model = new MenuListModel();

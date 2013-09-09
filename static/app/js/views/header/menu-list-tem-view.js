@@ -16,7 +16,7 @@ define([
 
 ], function (Marionette,App, MenulistItemTpl, MenilistModel,$, _, Backbone) {
 
-    var MenulistItemView = Marionette.ItemView.extend({
+    var MenulistItemView = Backbone.View.extend({
         el: $('#wineList'),
         tagName: "li",
         template: _.template($('#menu-list-item').html()),
