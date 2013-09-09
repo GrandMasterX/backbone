@@ -19,7 +19,7 @@ define([
     var MenulistItemView = Marionette.ItemView.extend({
         el: $('#wineList'),
         tagName: "li",
-        template: _.template($('menu-list-item').html()),
+        template: _.template($('#menu-list-item').html()),
         render: function(eventName) {
             console.log(this.template);
             $(this.el).html(this.template(this.model.toJSON()));
