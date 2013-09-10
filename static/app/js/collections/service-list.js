@@ -11,13 +11,13 @@ define([
     'backbone',
     'backboneMarionette',
     'models/menu-list'
-], function ($, _, Backbone,Marionette, MenulistModel) {
+], function ($, _, Backbone,Marionette, listModel) {
 
     return  Backbone.Collection.extend({
 
-        url: 'site/Getmenu',
+        url: 'site/Getservice',
 
-        model:MenulistModel,
+        model:listModel,
     });
 
 });

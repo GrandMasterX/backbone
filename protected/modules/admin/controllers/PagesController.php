@@ -77,9 +77,7 @@ class PagesController extends Controller {
             $model->is_blocked = 0;
             if(!$model->weight)
                 $model->weight = 1;
-            //var_dump($model);die;
             if ($model->save()) {
-                //save client role for user
                 $this->setFlashSuccess(Yii::t('infoMessages', 'Новая страница добавлена!'));
                 $this->redirect(array('index'));
             }

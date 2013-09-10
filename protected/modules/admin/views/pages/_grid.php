@@ -98,7 +98,7 @@
         array(
             'class'=>'CCheckBoxColumn',
             'selectableRows'=>'2',
-            'cssClassExpression' => '($data->visible > 0) ? "blocked-class" : "not-blocked-class"',
+            'cssClassExpression' => '($data->is_blocked > 0) ? "blocked-class" : "not-blocked-class"',
         ),
         array(
             'name'=>'name',

@@ -5,6 +5,7 @@ class Pages extends CActiveRecord {
     public  $is_blocked;
     public  $info;
     public  $weight;
+    public  $url;
 
 
     public static function model($className = __CLASS__) {
@@ -26,6 +27,7 @@ class Pages extends CActiveRecord {
             'name' => Yii::t('pages', 'Имя'),
             'info' => Yii::t('pages', 'Информация'),
             'weight' => Yii::t('pages', 'Позиция'),
+            'url'   => Yii::t('pages','Ссылка'),
         );
     }
 
@@ -47,7 +49,7 @@ class Pages extends CActiveRecord {
         return array(
             array('name', 'required', 'on' => 'insert,update'),
             array('info', 'required', 'on' => 'insert,update'),
-            array('name,info,weight', 'safe', 'on' => 'search,insert,update'),
+            array('name,info,weight,url', 'safe', 'on' => 'search,insert,update'),
         );
         //$charset = Yii::app()->charset;
     }
@@ -66,6 +68,10 @@ class Pages extends CActiveRecord {
 
     public function getWeight() {
         return $this->weight;
+    }
+
+    public function getUrl() {
+        return $this->url;
     }
 
 

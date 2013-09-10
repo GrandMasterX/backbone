@@ -39,19 +39,27 @@ $this->breadcrumbs=array(
 		</div>
 
         <div class="control-group">
+            <?php echo $form->labelEx($model,'weight', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'weight',array('size'=>40)); ?>
+                <?php echo $form->error($model,'weight'); ?>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <?php echo $form->labelEx($model,'type', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'type',array('size'=>40)); ?>
+                <?php echo $form->error($model,'type'); ?>
+            </div>
+        </div>
+
+        <div class="control-group">
             <?php echo $form->labelEx($model,'pages_id', array('class'=>'control-label')); ?>
             <div class="controls">
                 <?php echo Chosen::activeDropDownList($model, 'pages_id', CHtml::listData(Pages::model()->notBlocked()->findAll(array('order'=>'name')), 'id', 'name'),
                     array('empty'=>Yii::t('page', 'Выберите из списка'))); ?>
                 <?php echo $form->error($model,'pages_id'); ?>
-            </div>
-        </div>
-
-        <div class="control-group">
-            <?php echo $form->labelEx($model,'weight', array('class'=>'control-label')); ?>
-            <div class="controls">
-                <?php echo $form->textField($model,'weight',array('size'=>40)); ?>
-                <?php echo $form->error($model,'weight'); ?>
             </div>
         </div>
 

@@ -73,9 +73,6 @@ class PageController extends Controller {
         if (!is_null(Yii::app()->request->getPost('Page'))) {
 
             $model->attributes = Yii::app()->request->getPost('Page');
-            $model->is_blocked = 0;
-            if($model->weight)
-                $model->weight = 1;
 
             if ($model->save()) {
 

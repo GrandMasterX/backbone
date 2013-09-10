@@ -33,6 +33,7 @@ class Page extends CActiveRecord {
             'weight' => Yii::t('page', 'Позиция'),
             'pages_id'=> Yii::t('page', 'Где отображать'),
             'create_time'=>Yii::t('page', 'Дата создания'),
+            'type'=>Yii::t('page','Тип контента'),
         );
     }
 
@@ -55,9 +56,45 @@ class Page extends CActiveRecord {
             //array('pages_id', 'required', 'on' => 'insert,update'),
             array('weight', 'required', 'on' => 'insert,update'),
             array('body', 'required', 'on' => 'insert,update'),
-            array('name,info,body,weight', 'safe', 'on' => 'search,insert,update'),
+            array('name,info,body,weight,type,pages_id', 'safe', 'on' => 'search,insert,update'),
         );
         //$charset = Yii::app()->charset;
+    }
+
+    public static function getSteps() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'steps'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getSlider() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'slider'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getService() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'service'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getHowitworks() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'howitworks'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getPartners() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'partners'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getContacts() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'contacts'".' order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
     }
 
     public function getId() {

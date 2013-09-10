@@ -12,10 +12,11 @@ define([
     app.addRegions({
         menuRegion  : '#menuList',
         headRegion  : '.head',
-        pageRegion  : '.center',
+        pageRegion  : '#center_head',
         footerRegion: '.foots',
         modalRegion : '.modal',
-        menuListRegion: '.menu'
+        menuListRegion: '.menu',
+        stepsRegion : '#steps',
     });
 
     /* add initializer */

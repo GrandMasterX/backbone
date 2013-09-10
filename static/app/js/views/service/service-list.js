@@ -14,21 +14,19 @@ define([
     'backbone',
 ], function (Marionette,App, MenuListModel,$, _, Backbone) {
 
-    var MenuListView = Backbone.View.extend({
-        el: $('#menuList'),
-        template: _.template($('#menu-list-item').html()),
+    return Backbone.View.extend({
+        el: $('#center_head'),
+        template: _.template($('#service-list-item').html()),
 
         render: function(eventName) {
-            _.each(this.model.models, function(menu){
-                var menuTemplate = this.template(menu.toJSON());
-                $(this.el).append(menuTemplate);
+            _.each(this.model.models, function(steps){
+                var stepsTemplate = this.template(steps.toJSON());
+                $(this.el).append(stepsTemplate);
             }, this);
 
             return this;
         }
 
     });
-
-    return MenuListView;
 
 });

@@ -238,6 +238,30 @@ class SiteController extends Controller {
         echo json_encode(Pages::getPages());
     }
 
+    public function actionGetslider() {
+        echo json_encode(Page::getSlider());
+    }
+
+    public function actionGetsteps() {
+        echo json_encode(Page::getSteps());
+    }
+
+    public function actionGetservice() {
+        echo json_encode(Page::getService());
+    }
+
+    public function actionGethowitworks() {
+        echo json_encode(Page::getHowitworks());
+    }
+
+    public function actionGetpartners() {
+        echo json_encode(Page::getPartners());
+    }
+
+    public function actionGetcontacts() {
+        echo json_encode(Page::getContacts());
+    }
+
     public function actionLogin() {
         $this->layout = '//layouts/main-temp';
         $model = new User('login');

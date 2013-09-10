@@ -39,6 +39,22 @@ $this->breadcrumbs=array(
 			    <?php echo $form->error($model,'info'); ?>
             </div>
 		</div>
+
+        <div class="control-group">
+            <?php echo $form->labelEx($model,'weight', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'weight',array('size'=>40)); ?>
+                <?php echo $form->error($model,'weight'); ?>
+            </div>
+        </div>
+
+        <div class="control-group">
+            <?php echo $form->labelEx($model,'url', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'url',array('size'=>40)); ?>
+                <?php echo $form->error($model,'url'); ?>
+            </div>
+        </div>
 		<div class="control-group">
 			<div class="controls">
                 <?php echo CHtml::submitButton(Yii::t('Pages', 'Создать'), array('class'=>'btn btn-success')); ?>

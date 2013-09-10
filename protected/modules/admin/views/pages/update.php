@@ -45,6 +45,14 @@ $this->breadcrumbs=array(
                 <?php echo $form->error($model,'weight'); ?>
             </div>
         </div>
+
+        <div class="control-group">
+            <?php echo $form->labelEx($model,'url', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'url',array('size'=>40)); ?>
+                <?php echo $form->error($model,'url'); ?>
+            </div>
+        </div>
     
 		<div class="control-group">
 			<div class="controls"> 

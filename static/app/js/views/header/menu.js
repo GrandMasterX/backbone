@@ -16,11 +16,12 @@ define([
 
     return Backbone.View.extend({
         events:{
+
         },
+
         collection: MenuListCollection,
 
         initialize:function () {
-            this.model = new menuList();
             var menuCollection = new this.collection();
             var menusView = new MenuListView({model: menuCollection});
             menuCollection.fetch();

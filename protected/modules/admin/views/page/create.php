@@ -18,7 +18,6 @@ $this->breadcrumbs=array(
             ),
             'htmlOptions'=>array(
                 'class'=>'form-horizontal',
-                'width'=>'250px',
                 ),
             )); ?>
 
@@ -50,6 +49,14 @@ $this->breadcrumbs=array(
         </div>
 
         <div class="control-group">
+            <?php echo $form->labelEx($model,'type', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'type',array('size'=>40)); ?>
+                <?php echo $form->error($model,'type'); ?>
+            </div>
+        </div>
+
+        <div class="control-group">
             <?php echo $form->labelEx($model,'pages_id', array('class'=>'control-label')); ?>
             <div class="controls">
                 <?php echo Chosen::activeDropDownList($model, 'pages_id', CHtml::listData(Pages::model()->notBlocked()->findAll(array('order'=>'name')), 'id', 'name'),
@@ -67,7 +74,7 @@ $this->breadcrumbs=array(
                         'model' => $model,
                         'attribute' => 'body',
                         'htmlOptions' => array(
-                            'style' => 'height:150px;width:250px;'
+                            'style' => 'height:150px;'
                         ),
 
                         // or just for input field
