@@ -23,7 +23,7 @@ define([
          */
         appRoutes:{
             //'*actions':'goto_index', // /
-            '.*':'goto_index',
+            /*'.*':'goto_index',
             'index':'goto_index', // #/index
             'service':'goto_service', // #/about_service
             'howitworks':'goto_howitworks', // #/how it works
@@ -32,7 +32,7 @@ define([
             'error/:number':'goto_error', // #/error/number
 
             // paths not found
-            '*path':'goto_notFound'
+            '*path':'goto_notFound'*/
         }
     });
 

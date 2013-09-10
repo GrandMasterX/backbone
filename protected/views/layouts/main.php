@@ -25,10 +25,12 @@
     <div class="wrapper" id="wrapper_hide">
       <!-- Begin page content -->
       <div class="allin">
-        <?php echo $content; ?>
+          <?php $this->renderPartial('/site/menu');?>
+          <?php //echo $content; ?>
       </div>
     </div>
     <div class="modal" style="display: none;"></div>
+
    <?php $this->renderPartial('/site/modal');?>
    <?php $this->renderPartial('//layouts/gAnalytics');?>
   </body>

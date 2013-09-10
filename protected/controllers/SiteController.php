@@ -41,6 +41,56 @@ class SiteController extends Controller {
         $this->render('index', array('data' => 'Index page'));
     }
 
+    public function actionModal() {
+        $data = $this->getInputAsJson();
+        $model = new Joinus();
+        if(empty($data['name']) || empty($data['email']))
+        {
+            $this->sendResponse(401, 'There was an error while sending data');
+        } else {
+            $model->attributes = $data;
+            if($model->validate()) {
+                $model->save();
+                $this->sendResponse(200, 'Email was sended successfull');
+            }
+        }
+    }
+
+    public function actionService(){
+        $this->render('index',array(
+            'dataProvider'=>$dataProvider,
+            'search'=>$search,
+        ));
+    }
+
+    public function actionGetmenu() {
+        echo json_encode(Pages::getPages());
+    }
+
+    public function actionGetslider() {
+        echo json_encode(Page::getSlider());
+    }
+
+    public function actionGetsteps() {
+        echo json_encode(Page::getSteps());
+    }
+
+    public function actionGetservice() {
+        echo json_encode(Page::getService());
+    }
+
+    public function actionGethowitworks() {
+        echo json_encode(Page::getHowitworks());
+    }
+
+    public function actionGetpartners() {
+        echo json_encode(Page::getPartners());
+    }
+
+    public function actionGetcontacts() {
+        echo json_encode(Page::getContacts());
+    }
+
     public function actionGetSize() {
         $this->render('getSize', array('data' => 'Index page'));
     }
@@ -217,49 +267,6 @@ class SiteController extends Controller {
             else
                 $this->render('error', $error);
         }
-    }
-
-    public function actionModal() {
-        $data = $this->getInputAsJson();
-        $model = new Joinus();
-        if(empty($data['name']) || empty($data['email']))
-        {
-            $this->sendResponse(401, 'There was an error while sending data');
-        } else {
-            $model->attributes = $data;
-            if($model->validate()) {
-                $model->save();
-                $this->sendResponse(200, 'Email was sended successfull');
-            }
-        }
-    }
-
-    public function actionGetmenu() {
-        echo json_encode(Pages::getPages());
-    }
-
-    public function actionGetslider() {
-        echo json_encode(Page::getSlider());
-    }
-
-    public function actionGetsteps() {
-        echo json_encode(Page::getSteps());
-    }
-
-    public function actionGetservice() {
-        echo json_encode(Page::getService());
-    }
-
-    public function actionGethowitworks() {
-        echo json_encode(Page::getHowitworks());
-    }
-
-    public function actionGetpartners() {
-        echo json_encode(Page::getPartners());
-    }
-
-    public function actionGetcontacts() {
-        echo json_encode(Page::getContacts());
     }
 
     public function actionLogin() {
