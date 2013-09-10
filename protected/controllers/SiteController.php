@@ -38,7 +38,9 @@ class SiteController extends Controller {
     }
 
     public function actionIndex() {
-        $this->render('index', array('data' => 'Index page'));
+        $slider = self::actionGetslider();
+        $steps = self::actionGetsteps();
+        $this->render('main', array('data' => 'Index page','slider'=>$slider,'steps'=>$steps));
     }
 
     public function actionModal() {
@@ -57,10 +59,18 @@ class SiteController extends Controller {
     }
 
     public function actionService(){
-        $this->render('index',array(
-            'dataProvider'=>$dataProvider,
-            'search'=>$search,
-        ));
+        $this->render('service',array());
+    }
+
+    public function actionHowitworks(){
+        $this->render('howitworks',array());
+    }
+
+    public function actionPartners(){
+        $this->render('partners',array());
+    }
+    public function actionContacts(){
+        $this->render('contacts',array());
     }
 
     public function actionGetmenu() {
@@ -68,11 +78,13 @@ class SiteController extends Controller {
     }
 
     public function actionGetslider() {
-        echo json_encode(Page::getSlider());
+        //echo json_encode(Page::getSlider());
+        return Page::getSlider();
     }
 
     public function actionGetsteps() {
-        echo json_encode(Page::getSteps());
+        //echo json_encode(Page::getSteps());
+        return Page::getSteps();
     }
 
     public function actionGetservice() {

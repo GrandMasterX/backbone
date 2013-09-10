@@ -52,11 +52,11 @@ class Page extends CActiveRecord {
     public function rules() {
         return array(
             array('title', 'required', 'on' => 'insert,update'),
-            array('info', 'required', 'on' => 'insert,update'),
+            //array('info', 'required', 'on' => 'insert,update'),
             //array('pages_id', 'required', 'on' => 'insert,update'),
             array('weight', 'required', 'on' => 'insert,update'),
             array('body', 'required', 'on' => 'insert,update'),
-            array('name,info,body,weight,type,pages_id', 'safe', 'on' => 'search,insert,update'),
+            array('name,info,body,weight,type,pages_id,url', 'safe', 'on' => 'search,insert,update'),
         );
         //$charset = Yii::app()->charset;
     }

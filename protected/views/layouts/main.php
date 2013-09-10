@@ -10,9 +10,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
+    <script src="static/js/jquery.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+
+    <!--<script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
               src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
-    <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>
+    <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>-->
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="<?php echo $baseUrl?>.'/static/bootstrap/front/js/html5shiv.js"></script>
@@ -26,7 +29,8 @@
       <!-- Begin page content -->
       <div class="allin">
           <?php $this->renderPartial('/site/menu');?>
-          <?php //echo $content; ?>
+          <?php echo $content; ?>
+          <?php $this->renderPartial('/site/footer');?>
       </div>
     </div>
     <div class="modal" style="display: none;"></div>
