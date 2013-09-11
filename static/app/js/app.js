@@ -10,13 +10,15 @@ define([
 
     /* add regions -please see your views/layouts and views/site/index view file */
     app.addRegions({
-        menuRegion  : '#menuList',
+        //menuRegion  : '.wrapper_hide',
+        /*
         headRegion  : '.head',
         pageRegion  : '#center_head',
         footerRegion: '.foots',
         modalRegion : '.modal',
         menuListRegion: '.menu',
-        stepsRegion : '#steps',
+        stepsRegion : '#steps',*/
+        magicRegion: '.magic_button',
     });
 
     /* add initializer */

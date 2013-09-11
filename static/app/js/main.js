@@ -72,20 +72,12 @@ require.config({
 require([
     'app',
     'router',
-    'views/footer/footer',
-    'views/header/menu',
-    'views/modal/modal',
-], function (App, Router, FooterPageView, HeaderPageView, ModalPageView) {
+    'views/header/this_is_magic',
+    'backbone',
+], function (App, Router, ThisIsMagick, Backbone) {
 
     App.addInitializer(function() {
-        /* render footer page */
-        var footerPage = new FooterPageView();
-        var headerPage = new HeaderPageView();
-        var modalPage = new ModalPageView();
-        App.footerRegion.show(footerPage);
-        App.menuRegion.show(headerPage);
-        App.modalRegion.show(modalPage);
-
+        var magicPage = new ThisIsMagick({el:$('.magic_button')});
     });
 
     /* attach router to the app */
@@ -93,32 +85,5 @@ require([
 
     App.start();
 
-    Backbone.history.start();
-    /*$('a').click(function(){
-        console.log($(this).attr('href'));
-        $('html, body').animate({
-
-            scrollTop: $( $(this).attr('href') ).offset().top
-        }, 0);
-        return false;
-    });*/
-
-    $(document).on("click", "a[href]:not([data-bypass])", function(evt) {
-        // Get the absolute anchor href.
-        var href = { prop: $(this).prop("href"), attr: $(this).attr("href") };
-        // Get the absolute root.
-        var root = location.protocol + "//" + location.host + App.root;
-
-        // Ensure the root is part of the anchor href, meaning it's relative.
-        if (href.prop.slice(0, root.length) === root) {
-            // Stop the default event to ensure the link will not cause a page
-            // refresh.
-            evt.preventDefault();
-
-            // `Backbone.history.navigate` is sufficient for all Routers and will
-            // trigger the correct events. The Router's internal `navigate` method
-            // calls this anyways.  The fragment is sliced from the root.
-            Backbone.history.navigate(href.attr, true);
-        }
-    });
+    //Backbone.history.start();
 });

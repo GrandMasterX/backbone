@@ -10,11 +10,35 @@
         </ul>
     </div>
     <div class="language_selector">
-        <a href="#">ru</a>
+        <?php
+        $lang = Yii::app()->languageManager->languages;
+        end($lang);
+        $last = key($lang);
+        foreach ($lang as $key=>$language): ?>
+
+            <a>
+                <?php echo CHtml::link(
+                    CHtml::encode($language),
+                    '#',
+                    array('submit' => array('/admin/default/changeLanguage', 'language'=>$key, 'currentLanguageTitle'=>$language, Yii::app()->request->csrfTokenName => Yii::app()->request->csrfToken)));
+                ?>
+            </a>
+
+            <?php
+            if($key != $last): ?>
+                <div class="grey_line"></div>
+            <?php endif;?>
+
+        <?php endForeach ?>
+        <!--<a href="#">ru</a>
         <div class="grey_line"></div>
         <a href="#" class="l_r_border">eng</a>
         <div class="grey_line"></div>
-        <a href="#">ukr</a>
+        <a href="#">ukr</a>-->
     </div><div style="clear:both;"></div>
-    <div class="magic_button"></div>
+    <a href="#">
+        <div class="magic_button animated">
+        </div>
+    </a>
+
 </div>

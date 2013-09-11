@@ -12,14 +12,19 @@
     <meta name="author" content="">
     <script src="static/js/jquery.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
+      <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/bootstrap/front/js/html5shiv.js"></script>
+      <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/ie.css" />
+      <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/animate/animate.css" />
+      <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/bootstrap.min.css" media="screen"/>
+      <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/base.css" media="screen"/>
+      <link href="http://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
 
     <!--<script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
               src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
-    <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>-->
+    <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="<?php echo $baseUrl?>.'/static/bootstrap/front/js/html5shiv.js"></script>
-      <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/ie.css" />
+
     <![endif]-->
   </head>
   <body>
@@ -29,11 +34,13 @@
       <!-- Begin page content -->
       <div class="allin">
           <?php $this->renderPartial('/site/menu');?>
+          <?php $this->renderPartial('/site/this_is_magic');?>
           <?php echo $content; ?>
+
           <?php $this->renderPartial('/site/footer');?>
       </div>
     </div>
-    <div class="modal" style="display: none;"></div>
+    <?php $this->renderPartial('/site/modal_view');?>
 
    <?php $this->renderPartial('/site/modal');?>
    <?php $this->renderPartial('//layouts/gAnalytics');?>
@@ -42,10 +49,14 @@
 
 <?php
 $app->clientScript
-    ->registerCoreScript('jquery')
-    ->registerCssFile($baseUrl.'/static/bootstrap/front/css/bootstrap.min.css')
-    ->registerCssFile($baseUrl.'/static/css/base.css');
+    ->registerCoreScript('jquery');
+    /*->registerCssFile($baseUrl.'/static/bootstrap/front/css/bootstrap.min.css')
+    ->registerCssFile($baseUrl.'/static/css/base.css');*/
 ?>
+
+<script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
+        src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
+<script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>
 
 
 <script type="text/javascript">
