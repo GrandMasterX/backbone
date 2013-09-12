@@ -34,6 +34,7 @@ define([
                 var modalPage = new ModalPageView();
                 var bg_image = $('.menu').find('li:eq(0)');
                 $('.main_page_bg').animate({opacity: 1},3000);
+
                 /*$('.menu a').click(function(e){
                     if(e.target !== bg_image.find('a')[0]) {
                         if($('.wrapper ').hasClass('main_page_bg'))
@@ -65,14 +66,10 @@ define([
                 $('.main_page_bg').css({'opacity' : '0'});
             });
         },
-        /* renders dashboard */
-        goto_partners: function() {
 
-            require(['views/partners/page'], function(PartnersPage){
-                $('#center_head,#steps').html('');
-                var partnersPage = new PartnersPage();
-                App.pageRegion.show(partnersPage);
-                $('.main_page_bg').css({'opacity' : '0'});
+        goto_partners: function() {
+            require(['views/partners/brends_list'], function(BrendsPage){
+                new BrendsPage();
             });
         },
         /* renders dashboard */

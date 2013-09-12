@@ -1,4 +1,4 @@
-<script id="partners-list-item" type="template">
+<script id="partners-list-item1" type="template">
     <div class="brand_item">
         <div class="top_line">
             <div class="left_corner_top"></div>
@@ -21,5 +21,4 @@
             <div class="right_corner_bottom"></div>
         </div><div style="clear:both;"></div>
     </div>
-    <div class="brand_vert_separator"></div>
 </script>

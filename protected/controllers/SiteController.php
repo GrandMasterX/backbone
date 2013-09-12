@@ -58,6 +58,38 @@ class SiteController extends Controller {
         }
     }
 
+    public function actionKnowmore() {
+        $data = $this->getInputAsJson();
+        $model = new Joinus();
+        $model->scenario = 'know_more';
+        if(empty($data['email']))
+        {
+            $this->sendResponse(401, Yii::t('promo','Не заполнено поле емейл!'));
+        } else {
+            $model->attributes = $data;
+            if($model->validate()) {
+                $model->save();
+                $this->sendResponse(200, Yii::t('promo','Спасибо за подписку!'));
+            }
+        }
+    }
+
+    public function actionAdvisemagazine() {
+        $data = $this->getInputAsJson();
+        $model = new Joinus();
+        $model->scenario = 'magazine';
+        if(empty($data['email']) || empty($data['url']))
+        {
+            $this->sendResponse(401, Yii::t('promo','Не заполнено из полей!'));
+        } else {
+            $model->attributes = $data;
+            if($model->validate()) {
+                $model->save();
+                $this->sendResponse(200, Yii::t('promo','Спасибо за совет!'));
+            }
+        }
+    }
+
     public function actionService(){
         $this->render('service',array());
     }
@@ -87,6 +119,7 @@ class SiteController extends Controller {
         return Page::getSteps();
     }
 
+
     public function actionGetservice() {
         echo json_encode(Page::getService());
     }
@@ -96,11 +129,29 @@ class SiteController extends Controller {
     }
 
     public function actionGetpartners() {
-        echo json_encode(Page::getPartners());
+        //$text = array();
+        $brands_list = Page::getPartners();
+        $brands_list = self::pushToEndOfSubarrays($brands_list,Yii::t('page','смотреть сервис на сайте'));
+        echo json_encode($brands_list);
+    }
+
+    public function pushToEndOfSubarrays($array, $item) {
+        $ret = array();
+
+        foreach ($array as $key => $subarray) {
+            $subarray['look_service'] = $item;
+            $ret[$key] = $subarray;
+        }
+
+        return $ret;
     }
 
     public function actionGetcontacts() {
         echo json_encode(Page::getContacts());
+    }
+
+    public function actionGetpartnerslike() {
+        echo json_encode(Page::getPartnerslike());
     }
 
     public function actionGetSize() {

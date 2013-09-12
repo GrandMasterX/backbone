@@ -26,9 +26,9 @@ define([
             /*'.*':'goto_index',
             'index':'goto_index', // #/index
             'service':'goto_service', // #/about_service
-            'howitworks':'goto_howitworks', // #/how it works
+            'howitworks':'goto_howitworks', // #/how it works*/
             'partners':'goto_partners', // #/how it works
-            'contacts':'goto_contacts', // #/how it works
+            /*'contacts':'goto_contacts', // #/how it works
             'error/:number':'goto_error', // #/error/number
 
             // paths not found

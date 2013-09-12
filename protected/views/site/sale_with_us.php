@@ -15,14 +15,14 @@
                 <div class="tab-pane" id="profile">
                     <div class="tab-pane" id="home"><p><?php echo Yii::t('promo', 'Хотите видеть Astrofit в своем любимом магазине?'); ?></p>
                         <form class="form-inline">
-                            <input type="text" class="input-small first_input" placeholder="http:// ссылка магазина">
-                            <input type="text" class="input-small" placeholder="ваш e-mail">
+                            <input type="text" name='magazine_url' class="input-small first_input" placeholder="http:// ссылка магазина">
+                            <input type="text" name='magazine_email' class="input-small" placeholder="ваш e-mail">
                             <div class="wy_mail">
                                 <p>
                                     <a id="example2" data-toggle="popover" data-placement="bottom" data-content="Мы сообщим вам как только Astrafit появится в этом магазине." title="" data-original-title="Зачем e-mail?"><?php echo Yii::t('promo', 'Зачем e-mail?'); ?></a>
                                 </p>
                             </div>
-                            <a href="#" type="submit" class="proposition blue_repeat_btn"><?php echo Yii::t('promo', 'Предложить'); ?></a>
+                            <a href="#" type="submit" class="proposition blue_repeat_btn send_magazine"><?php echo Yii::t('promo', 'Предложить'); ?></a>
                         </form>
                     </div>
                 </div>

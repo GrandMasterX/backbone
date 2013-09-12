@@ -20,15 +20,10 @@ define([
 
         events:{
             'click':'slide',
-            'click #example2':'popover',
         },
 
         initialize:function () {
 
-        },
-
-        popover:function(e) {
-            $('#example2').popover();
         },
 
         slide:function (e) {

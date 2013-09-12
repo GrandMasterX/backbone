@@ -52,9 +52,9 @@ class Joinus extends CActiveRecord {
         return array(
             array('name', 'required', 'on' => 'insert,update'),
             array('company', 'required', 'on' => 'insert,update'),
-            array('email', 'required', 'on' => 'insert,update'),
-            array('url', 'required', 'on' => 'insert,update'),
-            array('name,company,url,phone,email,text', 'safe', 'on' => 'search,insert,update'),
+            array('email', 'required', 'on' => 'insert,update,know_more,magazine'),
+            array('url', 'required', 'on' => 'insert,update,magazine'),
+            array('name,company,url,phone,email,text', 'safe', 'on' => 'search,insert,update,know_more'),
         );
         //$charset = Yii::app()->charset;
     }

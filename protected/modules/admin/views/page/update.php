@@ -39,6 +39,14 @@ $this->breadcrumbs=array(
 		</div>
 
         <div class="control-group">
+            <?php echo $form->labelEx($model,'image', array('class'=>'control-label')); ?>
+            <div class="controls">
+                <?php echo $form->textField($model,'image',array('size'=>40)); ?>
+                <?php echo $form->error($model,'image'); ?>
+            </div>
+        </div>
+
+        <div class="control-group">
             <?php echo $form->labelEx($model,'url', array('class'=>'control-label')); ?>
             <div class="controls">
                 <?php echo $form->textField($model,'url',array('size'=>40)); ?>

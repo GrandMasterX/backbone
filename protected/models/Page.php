@@ -34,6 +34,7 @@ class Page extends CActiveRecord {
             'pages_id'=> Yii::t('page', 'Где отображать'),
             'create_time'=>Yii::t('page', 'Дата создания'),
             'type'=>Yii::t('page','Тип контента'),
+            'image'=> Yii::t('page','Картинка'),
         );
     }
 
@@ -55,8 +56,8 @@ class Page extends CActiveRecord {
             //array('info', 'required', 'on' => 'insert,update'),
             //array('pages_id', 'required', 'on' => 'insert,update'),
             array('weight', 'required', 'on' => 'insert,update'),
-            array('body', 'required', 'on' => 'insert,update'),
-            array('name,info,body,weight,type,pages_id,url', 'safe', 'on' => 'search,insert,update'),
+            //array('body', 'required', 'on' => 'insert,update'),
+            array('name,info,body,weight,type,pages_id,url,image', 'safe', 'on' => 'search,insert,update'),
         );
         //$charset = Yii::app()->charset;
     }
@@ -87,7 +88,13 @@ class Page extends CActiveRecord {
 
     public static function getPartners() {
         $connection=Yii::app()->db;
-        $sql = 'SELECT * FROM page where type='."'partners'".' order by weight ASC';
+        $sql = 'SELECT * FROM page where type='."'partners'".' and is_blocked =0 order by weight ASC';
+        return $connection->createCommand($sql)->queryAll();
+    }
+
+    public static function getPartnerslike() {
+        $connection=Yii::app()->db;
+        $sql = 'SELECT * FROM page where type='."'partnerslike'".' and is_blocked=0 order by weight ASC';
         return $connection->createCommand($sql)->queryAll();
     }
 

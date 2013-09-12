@@ -7,12 +7,12 @@
  */
 define([
     'backboneMarionette',
-    'models/send_modal',
+    'models/know_more',
     'backboneBUI'
 ], function (Marionette, SendModel, App) {
     return Marionette.ItemView.extend({
 
-        el:'.send_modal',
+        el:'.know_more_about_us',
 
         events:{
             'click' : 'send'
@@ -36,15 +36,11 @@ define([
         },
 
         send:function(e) {
-            //e.preventDefault();
-            this.model.url = 'http://localhost/my_git/site/modal';
+            e.preventDefault();
+            this.model.url = 'site/knowmore';
+            console.log($('input[name=know_emeil]').val());
             this.model.save({
-                name:$('input[name=name]').val(),
-                company:$('input[name=company]').val(),
-                url:$('input[name=link]').val(),
-                phone:$('input[name=phone]').val(),
-                email:$('input[name=mail]').val(),
-                text:$('textarea').val()
+                email:$('input[name=know_emeil]').val()
             });
         },
 

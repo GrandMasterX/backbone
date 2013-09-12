@@ -70,7 +70,7 @@ return array(
             'class' => 'HttpRequest',
             'enableCsrfValidation' => true,
             'enableCookieValidation' => true,
-            'noCsrfValidationRoutes' => array('admin/item', 'register/SaveComment','site/modal','site/Getmenu'),    ///, 'logg/History'
+            'noCsrfValidationRoutes' => array('admin/item', 'register/SaveComment','site/modal','site/Getmenu','site/knowmore','site/advisemagazine'),    ///, 'logg/History'
         ),
         'languageManager' => array(
             'class' => 'DbLanguageManager',

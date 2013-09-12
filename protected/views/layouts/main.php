@@ -19,7 +19,7 @@
       <link rel="stylesheet" type="text/css" href="<?php echo $baseUrl; ?>/static/css/base.css" media="screen"/>
       <link href="http://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
 
-    <!--<script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
+    <script data-main="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/main"
               src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/libs/require/require.js"></script>
     <script src="<?php echo Yii::app()->request->baseUrl; ?>/static/app/js/utils.js"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->

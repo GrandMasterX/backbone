@@ -16,7 +16,7 @@
                         <input name="phone" onblur="if(this.value == '') {this.value = 'Телефон для обратной связи'; this.style.color = '#777';}" onfocus="if(this.value == 'Телефон для обратной связи') {this.value = ''; this.style.color = '#000';}" style="color: #777;" type="text" value="Телефон для обратной связи">
                         <input name="mail" onblur="if(this.value == '') {this.value = 'Ваш e-mail'; this.style.color = '#777';}" onfocus="if(this.value == 'Ваш e-mail') {this.value = ''; this.style.color = '#000';}" style="color: #777;" type="text" value="Ваш e-mail">
                         <textarea rows="5"></textarea>
-                        <a href="#" type="submit" class="green_repeat_btn">Присоединиться</a>
+                        <a href="#" type="submit" class="green_repeat_btn send_modal">Присоединиться</a>
                     </fieldset>
                 </form>
             </div>

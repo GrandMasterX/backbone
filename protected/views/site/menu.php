@@ -30,11 +30,6 @@
             <?php endif;?>
 
         <?php endForeach ?>
-        <!--<a href="#">ru</a>
-        <div class="grey_line"></div>
-        <a href="#" class="l_r_border">eng</a>
-        <div class="grey_line"></div>
-        <a href="#">ukr</a>-->
     </div><div style="clear:both;"></div>
     <a href="#">
         <div class="magic_button animated">
