@@ -77,17 +77,17 @@ require([
     'views/modal/modal',
     'views/modal/know_more_about_us',
     'views/modal/advise_magazine',
-    'views/partners/brends_list',
-    'views/partners/partners_like_list',
-], function (App, Router, Backbone, ThisIsMagick, ModalView, KnowMoreView, AdviseMagazineView, BrendsView,LikeView) {
+   // 'views/partners/brends_list',
+   // 'views/partners/partners_like_list',
+], function (App, Router, Backbone, ThisIsMagick, ModalView, KnowMoreView, AdviseMagazineView/*, BrendsView,LikeView*/) {
 
     App.addInitializer(function() {
         new ThisIsMagick({el:$('.magic_button')});
         new ModalView();
         new KnowMoreView();
         new AdviseMagazineView();
-        new BrendsView();
-        new LikeView();
+        //new BrendsView();
+        //new LikeView();
     });
 
     /* attach router to the app */

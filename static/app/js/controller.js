@@ -29,10 +29,10 @@ define([
         goto_index: function() {
             require(['views/content/slider','views/content/steps','views/content/content'], function(sliderPageView,StepsPageView,ModalPageView){
                 $('#center_head,#steps').html('');
-                var sliderPage = new sliderPageView();
-                var stepsPage = new StepsPageView();
-                var modalPage = new ModalPageView();
-                var bg_image = $('.menu').find('li:eq(0)');
+                //var sliderPage = new sliderPageView();
+                //var stepsPage = new StepsPageView();
+                //var modalPage = new ModalPageView();
+                //var bg_image = $('.menu').find('li:eq(0)');
                 $('.main_page_bg').animate({opacity: 1},3000);
 
                 /*$('.menu a').click(function(e){
@@ -69,6 +69,7 @@ define([
 
         goto_partners: function() {
             require(['views/partners/brends_list'], function(BrendsPage){
+                console.log('123123123123');
                 new BrendsPage();
             });
         },
